@@ -18,8 +18,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="edition">
-        <div n="2543" type="textpart" xml:lang="grc">
+      <div type="edition" xml:lang="grc">
+        <div n="2543" type="textpart">
           <ab>
         <lb n="1"/>Σκῆνος μὲν γενετῆρες, ἐπεὶ γέρας ἐστὶ θανοῦσι,
         <lb n="2"/>τειμῶντες κλαίεσκον ἀναισθήτῳ περὶ τύμϐῳ,
@@ -33,7 +33,7 @@
         <lb n="10"/>αἴμνηστον ἔχων ψυχῆς πόθον ἀθανάτοιο.
           </ab>
           </div>
-         <div n="2544" type="textpart" xml:lang="grc">
+         <div n="2544" type="textpart">
         <ab>
           <lb n="1"/>Μαρμαρέη λίθος ἰμὶ, φέρω δ’ἐν γαστέρι φῶτα
         <lb n="2"/>Νήδυμον ὕπνον ἔχοντα κα<supplied reason="lost">λὸν φθι</supplied>μένοις τε παρόντα,
@@ -47,7 +47,7 @@
         <lb n="10"/>δώσει τῇ τε πόλει καὶ τῷ ταμείῳ ἀν<supplied reason="lost">ὰ</supplied> μυρία.
         </ab>
           </div>
-     <div n="2545" type="textpart" xml:lang="grc">
+     <div n="2545" type="textpart">
           <ab>
           <lb n="1"/> Πλήρης ὁ φόρτος ἐστί μοι· καλῶς ἔχει.
           <lb n="2"/>κεῖται γὰρ νηδὺν εἰς ἐμὴν ὁ Νήδυμος,
