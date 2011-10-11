@@ -19,15 +19,16 @@
   </teiHeader>
   <text>
     <body>
-      <div type="eipgram" n="2543">
-        <head>α. 2543</head>
+      <div type="translation">
+        <div n="2543" type="textpart">
         <p>My parents cried over my body around the unfeeling grave  since this is the honor due to the dead, but my soul left for its just destination. 
         My name was Nedymos, a gentle child of the Italian Adae. I did not live for a long time, but I was born to live for only a few years;
         unstable time, you  did not go back, but followed your own course; whatever destiny one is allotted, he fulfills it; and that is the case even for kings.
-        My father Zosimos wrote this for me, and in his longing for me forgot about my immortal soul.</p> 
+        My father Zosimos wrote this for me, and in his longing for me forgot about my immortal soul.</p>
+          </div>
       </div>
-      <div type="eipgram" n="2544">
-        <head>β. 2544</head>
+      <div type="translation">
+        <div n="2544" type="textpart">
         <p>I am a marble stone, I bear a man in my belly, Nedymos; he is sleeping beautifully 
         and in the company of the dead; the people honored him with a gold crown.
         The council did this in consolation to his son; the body of a lion crouches over
@@ -35,14 +36,16 @@
         due to the dead...And whoever would dare to place a body in my belly, to separate the 
         father from his son, who I keep in my belly, will be fined a large sum payable to the 
         city and to the treasury.</p>
+          </div>
       </div>
-      <div type="epigram" n="2545">
-        <head>γ. 2545</head>        
+      <div type="translation">
+        <div n="2545" type="textpart">        
         <p>My load is full; this is well. For Nedymos lies here in my belly and from this child 
         a son was born, named Nedymos, and now the third, Zosimus, father of this child.
         Let one of the gods grant me to be closed and without seams; if someone reaches to open me, 
         let his hopes bear no fruit, may he have no grandchildren, but may his whole lineage be 
         completely uprooted.</p>
+          </div>
       </div>
     </body>
   </text>
