@@ -40,7 +40,7 @@
          </refsDecl>
       </encodingDesc>
    </teiHeader>
-   <text>
+   <text xml:lang="greek" n="urn:cts:greekLang:tlg4081.tlg001.perseus-grcX1">
       <body>
          <div type="book" n="1" org="uniform" sample="complete" part="N">
             <div type="line">
