@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>IG VII 115-117 Megara, IVth-Vth century AD. Three epigrams on a sarcophagus</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Megara, IVth-Vth century AD.</p>        
+      </publicationStmt>
+      <sourceDesc>
+        <p> ? Leake, 1967, II, 223-225 and pl. IX</p>
+        <p> ? CIG 1656</p>
+        <p> ? Trombley, F., 1989, “Boiotia in Late Antiquity: Epigraphic Evidence on Society, Economy, and Christianization”, 
+          in Boiotika, Beister, H. and Buckler, J. eds. Munich.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="eipgram" n="115">
+        <head>α. 115</head>
+        <l n="1">Τὸν πᾶσιν ἠλίκεσσι μειλιχὠτατον,</l>
+        <l n="2">τὸν τοῖς καλοῖσι χρηστόν, δυσ[μ]ενῆ κακοῖς,</l>
+        <l n="3">δόξ[αι]ς δ' ἐν ἄστει μυρί[αι]ς [γ]αυ[ρ]ούμενον,</l>
+        <l n="4">ἀστοῖσι καὶ [ξε]ίνοισιν οἶσιν [ε]ὔν[ομ]ον</l>
+        <l n="5">μάρψασα μοῖρα σῶμα τή[ν]δ' ὐπὸ χθό[ν]α</l>
+        <l n="6">δ[έ]δωκ[ε]ν, ἦτορ δ' ο[ὐ]ρανῶ μ[ετάρσ]ιον·</l>
+        <l n="7">τοιοῦτο[ν ἲσθι π]ά[ντα] Νικοκράτους βί[ο]ν.</l>
+      </div>
+      <div type="eipgram" n="2544">
+        <head>β. 2544</head>
+        <l n="1">Εἰκοσι[ὲξ] ἀνύσαντα δ[υ]σηνύ[στ]ο[υ]ς [ἐ]νι[αυ]τοὺ[ς]</l>
+        <l n="2">[ε]ἱλ' ἄτροπος Κλωθὼ Νικοκ[ράτ]ην Βιότου,</l>
+        <l n="3">Νικοκράτην κλυτόμητιν [ἀ]φ' αἴματος ἀρχι[ε]ρ[ή]ων,</l>
+        <l n="4">πάππου Νικοκράτου[ς,] ὐἐα Καλλιτύχου.</l>
+      </div>
+      <div type="epigram" n="2545">
+        <head>γ. 2545</head>        
+          <l n="1">Νικοκράτους λαγόνεσσιν ὐπο χθονίαισι κέκρυπτ[αι]</l>
+          <l n="2">σῶμα, κέαρ δ' ἀνόρουσε πρὸς αἰθέρα δῖαν ἀεθέν.</l>
+          <l n="3">σὸι δὲ χάρισ, Πλουτε[ῦ], ἀκάκη Θε[ῶ]ι, εἲνεκα μοίρης·</l>
+          <l n="4">πρηὺν [κ]αὶ γλυκύθυμον, ἀγαλλόμενον μάλα πᾶσιν</l>
+          <l n="5">υἰὸν Καλλιτύχοιο μέ[ν]ει ... φάος ἄλλο</l>
+          <l n="6">πρὶν στυγερὸν ... ἀθανάτοισι ... </l>
+           
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -5,6 +5,7 @@
          <titleStmt>
             <title>Iliad (Greek). Machine readable text</title>
             <author>Homer</author>
+            <editor>Smith</editor>
          </titleStmt>
          <extent>about 500Kb</extent>
          <publicationStmt>
@@ -38,7 +39,7 @@
          </refsDecl>
       </encodingDesc>
    </teiHeader>
-   <text xml:lang="greek" >
+   <text xml:lang="greek" n="urn:cts:greekLang:tlg0012.tlg001.perseus-grc1">
       <body>
          <div type="Book" n="1" org="uniform" sample="complete">
             <milestone n="1" unit="card"/>
