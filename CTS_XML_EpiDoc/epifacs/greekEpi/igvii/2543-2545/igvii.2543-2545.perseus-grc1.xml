@@ -34,6 +34,7 @@
   </teiHeader>
   <text xml:lang="grc">
       <body>
+         <div type="commentary" subtype="frontmatter" xml:space="preserve"><p>some <emph rend="bold">commentary</emph> <emph rend="italics">text</emph>.<listBibl><bibl><ref target="http://papyri.info/biblio/77538">test bib</ref></bibl></listBibl></p></div>
          <div type="textpart" subtype="epigram" n="2543">
             <head>α. 2543</head>
             <l n="1">Σκῆνος μὲν γενετῆρες, ἐπεὶ γέρας ἐστὶ θανοῦσι,</l>
@@ -51,7 +52,7 @@
             <head>β. 2544</head>
             <l n="1">Μαρμαρέη λίθος ἰμὶ, φέρω δ’ἐν γαστέρι φῶτα</l>
             <l n="2">Νήδυμον ὕπνον ἔχοντα κα[λὸν φθι]μένοις τε παρόντα,</l>
-            <l n="3">ὃν δῆμος χρυσῷ στεφάνῳ [κόσμης’ ἐπὶ τ]ιμῇ.</l>
+            <l n="3">ὃν δῆμος χρυσῷ στεφάνῳ <supplied reason="lost">κόσμης’ ἐπὶ τ</supplied>ιμῇ.</l>
             <l n="4">βουλὴ ταὐτον ἔπραξε παρη[γορίην υἱ]οῖ[ο]·</l>
             <l n="5">κεῖται σῶμα λέοντος ἀ[ρηιφίλῳ ἐπὶ φωτ]ί.</l>
             <l n="6">Ζώσιμος υἱὸς ἔγραψε, τὸ γὰρ γέ[ρας ἐστὶ θανόντων],</l>
