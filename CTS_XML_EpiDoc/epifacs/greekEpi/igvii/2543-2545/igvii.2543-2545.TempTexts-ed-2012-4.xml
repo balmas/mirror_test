@@ -26,6 +26,14 @@
          </langUsage>
         </profileDesc>
         <revisionDesc>
+          <change when="2012-06-18T17:07:52.298-04:00"
+                 who="http://data.perseus.org/sosol/users/MarieClaire">Finalized - ok</change>
+          <change when="2012-06-18T17:07:52.215-04:00"
+                 who="http://data.perseus.org/sosol/users/MarieClaire">Vote - APPROVE - ok, found it again! the xml should be all fixed!</change>
+          <change when="2012-06-18T17:07:52.199-04:00"
+                 who="http://data.perseus.org/sosol/users/Bridget%20Almas">Vote - REJECT - markup problems </change>
+          <change when="2012-06-18T17:07:52.179-04:00"
+                 who="http://data.perseus.org/sosol/users/MarieClaire">Vote - REJECT - issues with apparatus</change>
           <change when="2012-06-18T16:28:47.177-04:00"
                  who="http://data.perseus.org/sosol/users/MarieClaire">fixed apparatusXML Markup Change&#xD;
 </change>
