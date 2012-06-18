@@ -26,6 +26,12 @@
          </langUsage>
         </profileDesc>
         <revisionDesc>
+          <change when="2012-06-18T16:28:47.177-04:00"
+                 who="http://data.perseus.org/sosol/users/MarieClaire">fixed apparatusXML Markup Change&#xD;
+</change>
+          <change when="2012-06-18T12:04:47.196-04:00"
+                 who="http://data.perseus.org/sosol/users/MarieClaire">fixed app elementXML Markup Change&#xD;
+</change>
           <change when="2012-06-15T16:07:17.073-04:00"
                  who="http://data.perseus.org/sosol/users/Bridget%20Almas">Finalized - Finalizing for MCB</change>
           <change when="2012-06-15T16:07:17.058-04:00"
@@ -53,44 +59,44 @@
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <lg met="hexameters">
       <head>Part α. 2543.</head>
-        <l n="1"><lb/>Σκῆνος μὲν γενετῆρες, ἐπ <app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="18" unit="character"/>εὶ γέρας ἐστὶ θανοῦσι,</rdg></app></l>
-        <l n="2"><lb/>τειμῶντες κλαίεσκον ἀναισθή<app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="11" unit="character"/>τῳ περὶ τύμϐῳ,</rdg></app></l>
-        <l n="3"><lb/>ψυχὴ δ’ἐς τὸ δίκαιον ἔϐη· ἦν δ’<app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="12" unit="character"/>οὔνομα τοὐμόν</rdg></app></l>
-        <l n="4"><lb/>Νήδυμος, Ἰταλικῆς Ἀδάης <app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="15" unit="character"/>παῖς ἥμερος ὄντως.</rdg></app></l>
-        <l n="5"><lb/>οὐκ ἤμην ἔμπροσθε πολ<app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="19" unit="character"/>ὺν χρόνον, εἶτ’ ἐγενήθην</rdg></app></l>
-        <l n="6"><lb/>εἰς ὀλίγον ἐτέων ἐναρίθμ<app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="14" unit="character"/>ιος· ἄστατος αἰών,</rdg></app></l>
-        <l n="7"><lb/>οὐκ ἀνέδραστον ἔχω<app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="24" unit="character"/>ν ἴδιον δρόμον· ἧς δ’ ἔλαχέν τις</rdg></app></l>
-        <l n="8"><lb/>μοίρης, ταύτην ἐκτε<app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="19" unit="character"/>λέσει· καὶ γὰρ βασιλῆες.</rdg></app></l>
-        <l n="9"><lb/>ταῦτ’ ἐπέγραψε πα<app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="21" unit="character"/>τὴρ ὁ Ζώσιμος εἵνεκ’ ἐμεῖο,</rdg></app></l>
-        <l n="10"><lb/>αἴμνηστον ἔχω<app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="20" unit="character"/>ν ψυχῆς πόθον ἀθανάτοιο.</rdg></app></l>
+        <l><lb n="1"/>Σκῆνος μὲν γενετῆρες, ἐπ<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="18" unit="character"/></rdg><rdg resp="previous">εὶ γέρας ἐστὶ θανοῦσι,</rdg></app></l>
+        <l><lb n="2"/>τειμῶντες κλαίεσκον ἀναισθή<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="11" unit="character"/></rdg><rdg resp="previous">τῳ περὶ τύμϐῳ,</rdg></app></l>
+        <l><lb n="3"/>ψυχὴ δ’ἐς τὸ δίκαιον ἔϐη· ἦν δ’<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="12" unit="character"/></rdg><rdg resp="previous">οὔνομα τοὐμόν</rdg></app></l>
+        <l><lb n="4"/>Νήδυμος, Ἰταλικῆς Ἀδάης <app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="15" unit="character"/></rdg><rdg resp="previous">παῖς ἥμερος ὄντως.</rdg></app></l>
+        <l><lb n="5"/>οὐκ ἤμην ἔμπροσθε πολ<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="19" unit="character"/></rdg><rdg resp="previous">ὺν χρόνον, εἶτ’ ἐγενήθην</rdg></app></l>
+        <l><lb n="6"/>εἰς ὀλίγον ἐτέων ἐναρίθμ<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="14" unit="character"/></rdg><rdg resp="previous">ιος· ἄστατος αἰών,</rdg></app></l>
+        <l><lb n="7"/>οὐκ ἀνέδραστον ἔχω<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="24" unit="character"/></rdg><rdg resp="previous">ν ἴδιον δρόμον· ἧς δ’ ἔλαχέν τις</rdg></app></l>
+        <l><lb n="8"/>μοίρης, ταύτην ἐκτε<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="19" unit="character"/></rdg><rdg resp="previous">λέσει· καὶ γὰρ βασιλῆες.</rdg></app></l>
+        <l><lb n="9"/>ταῦτ’ ἐπέγραψε πα<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="21" unit="character"/></rdg><rdg resp="previous">τὴρ ὁ Ζώσιμος εἵνεκ’ ἐμεῖο,</rdg></app></l>
+        <l><lb n="10"/>αἴμνηστον ἔχω<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="20" unit="character"/></rdg><rdg resp="previous">ν ψυχῆς πόθον ἀθανάτοιο.</rdg></app></l>
 </lg>
      </div>
          <div xml:lang="grc" type="edition" xml:space="preserve">
  <lg met="hexameters">
         <head>Part β. 2544.</head>
-        <l n="1"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="2" unit="character"/>Μα</rdg></app>ρμαρέη λίθος ἰμὶ, φέρω δ’ἐν γαστέρι φῶτα</l>
-        <l n="2"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="4" unit="character"/>Νήδυ</rdg></app>μον ὕπνον ἔχοντα κα<gap reason="lost" extent="10" unit="character"/><app><rdg>λὸν φθι Lolling</rdg></app><app><rdg>καὶ ἐν φθιμένοισι παρόντα Kaibel</rdg></app><app><rdg>καὶ ἐν θειοῖσι παρόντα Leake</rdg></app>νοις τε παρόντα,</l>
-        <l n="3"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="3" unit="character"/>ὃν δ</rdg></app>ῆμος χρυσῷ στεφάνῳ<gap reason="lost" extent="8" unit="character"/><app><rdg>κόσμησ’ ἐπὶ τ Lolling</rdg></app><app><rdg>τείμησε γεραίρων Kaibel</rdg></app>ιμη.</l>
-        <l n="4"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="6" unit="character"/>βουλὴ τ</rdg></app>αὐτὸν ἔπραξε παρη<gap reason="lost" extent="11" unit="character"/><app><rdg>γορίην ὑιοῖο Lolling Kaibel</rdg></app></l>
-        <l n="5"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="5" unit="character"/>κεῖται</rdg></app>σῶμα λέοντος ἀ<gap reason="lost" extent="14" unit="character"/><app><rdg>κόσμησ’ ἐπὶ τ Lolling</rdg></app></l>
-        <l n="6"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="6" unit="character"/>Ζώσιμος</rdg></app>ς υἱὸς ἔγραψε, τὸ γὰρ γέ<gap reason="lost" extent="15" unit="character"/><app><rdg>ρας ἐστι θανόντων Lolling</rdg></app><app><rdg> ρας ἐστι θανοῦσιν Kaibel</rdg></app></l>
-        <l n="7"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="5" unit="character"/>ἔμπνο</rdg></app>υν φθενγομένην ἀδεῶς<gap reason="lost" extent="8" unit="character"/><app><rdg>μ’ἐχάραξε Kaibel</rdg></app>σιδήρῳ.</l>
-        <l n="8"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="7" unit="character"/>ὅστις δ’ἂ</rdg></app>ν τολμᾷ θέσθαι νέκυν εἰς ἐμὲ νηδύν,</l>
-        <l n="9"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="6" unit="character"/>χωρὶς τ</rdg></app>ου παιδὸς πατέρος, οὗ ἔχω κατὰ γαστρός,</l>
-        <l n="10"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="6" unit="character"/>δώσει τῇ</rdg></app>τ τε πόλει καὶ τῷ ταμείῳ αν·μυρία.<app><rdg>ἀνα μύρια Lolling</rdg></app><app><rdg>δηνάρια Kaibel Leake</rdg></app></l>
+        <l><lb n="1"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="2" unit="character"/></rdg><rdg resp="previous">Μα</rdg></app>ρμαρέη λίθος ἰμὶ, φέρω δ’ἐν γαστέρι φῶτα</l>
+        <l><lb n="2"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="4" unit="character"/></rdg><rdg resp="previous">Νήδυ</rdg></app>μον ὕπνον ἔχοντα κα<gap reason="lost" agent="damage"/><app type="alternative"><rdg>λὸν φθι resp=Lolling</rdg></app><app type="alternative"><rdg>καὶ ἐν φθιμένοισι παρόντα resp=Kaibel</rdg></app><app type="alternative"><rdg>καὶ ἐν θειοῖσι παρόντα resp=Leake</rdg></app>νοις τε παρόντα,</l>
+        <l><lb n="3"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="3" unit="character"/></rdg><rdg resp="previous">ὃν δ</rdg></app>ῆμος χρυσῷ στεφάνῳ<gap reason="lost" agent="damage"/><app type="alternative"><rdg>κόσμησ’ ἐπὶ τ resp=Lolling</rdg></app><app type="alternative"><rdg>τείμησε γεραίρων resp=Kaibel</rdg></app>ιμη.</l>
+        <l><lb n="4"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="6" unit="character"/></rdg><rdg resp="previous">βουλὴ τ</rdg></app>αὐτὸν ἔπραξε παρη<gap reason="lost" agent="damage"/><app type="alternative"><rdg>γορίην ὑιοῖο resp=Lolling resp=Kaibel</rdg></app></l>
+        <l><lb n="5"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="5" unit="character"/></rdg><rdg resp="previous">κεῖται</rdg></app>σῶμα λέοντος ἀ<gap reason="lost" agent="damage"/><app type="alternative"><rdg>κόσμησ’ ἐπὶ τ resp=Lolling</rdg></app></l>
+        <l><lb n="6"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="6" unit="character"/></rdg><rdg resp="previous">Ζώσιμο</rdg></app>ς υἱὸς ἔγραψε, τὸ γὰρ γέ<gap reason="lost" agent="damage"/><app type="alternative"><rdg>ρας ἐστι θανόντων resp=Lolling</rdg></app><app type="alternative"><rdg>ρας ἐστι θανοῦσιν resp=Kaibel</rdg></app></l>
+        <l><lb n="7"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="5" unit="character"/></rdg><rdg resp="previous">ἔμπνο</rdg></app>υν φθενγομένην ἀδεῶς<gap reason="lost" agent="damage"/><app type="alternative"><rdg>μ’ἐχάραξε resp=Kaibel</rdg></app>σιδήρῳ.</l>
+        <l><lb n="8"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="7" unit="character"/></rdg><rdg resp="previous">ὅστις δ’ἂ</rdg></app>ν τολμᾷ θέσθαι νέκυν εἰς ἐμὲ νηδύν,</l>
+        <l><lb n="9"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="6" unit="character"/></rdg><rdg resp="previous">χωρὶς τ</rdg></app>ου παιδὸς πατέρος, οὗ ἔχω κατὰ γαστρός,</l>
+        <l><lb n="10"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="6" unit="character"/></rdg><rdg resp="previous">δώσει τ</rdg></app>ῇ τε πόλει καὶ τῷ ταμείῳ αν·μυρία.<app type="alternative"><rdg>ἀνα μύρια resp=Lolling</rdg></app><app type="alternative"><rdg>δηνάρια resp=Kaibel resp=Leake</rdg></app></l>
 </lg>
       </div>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <lg met="trimeters">
 <head>Part γ. 2545</head>
-          <l n="1"><lb/><app><rdg resp="TRE"> <gap reason="lost" agent="damage" extent="7" unit="character"/>Πλήρης ὁ </rdg></app>φόρτος ἐστί μοι· καλῶς ἔχει.</l>
-          <l n="2"><lb/> <app><rdg resp="TRE"/></app>κεῖται γὰρ νηδὺν εἰς ἐμὴν ὁ Νήδυμος,</l>
-          <l n="3"><lb/><app><rdg resp="TRE"/></app>κἀκ’ τοῦδε παιδὸς παῖς γεγὼς ὁ Νήδυμος,</l>
-          <l n="4"><lb/><app><rdg resp="TRE"/></app>τρίτος δὲ παιδὸς νῦν πατὴρ ὁ Ζώσιμος.</l>
-          <l n="5"><lb/><app><rdg resp="TRE"/></app>μύσιν θεῶν τίς μοι δότω καὶ σύνφυσιν·</l>
-          <l n="6"><lb/><app><rdg resp="TRE"/></app>ἤν γὰρ θίγῃ τις εἰς ἄνοιξιν τὴν ἐμήν,</l>
-          <l n="7"><lb/><app><rdg resp="TRE"/></app>μήτ’ ἐλπίδων ὄναιτο, μὴ τέκνων σπορᾶς,</l>
-          <l n="8"><lb/><app><rdg resp="TRE"/></app>ἀλλ’ ἐγ γένους ὄλοιτο πάνρειζον γένος.</l>
+          <l><lb n="1"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="7" unit="character"/></rdg><rdg resp="previous">Πλήρης ὁ </rdg></app>φόρτος ἐστί μοι· καλῶς ἔχει.</l>
+          <l><lb n="2"/><app type="alternative"><rdg><gap reason="lost" agent="damage"/></rdg><rdg resp="previous">κεῖται γὰρ νηδὺν εἰς ἐμὴν ὁ Νήδυμος,</rdg></app></l>
+          <l><lb n="3"/><app type="alternative"><rdg><gap reason="lost" agent="damage"/></rdg><rdg resp="previous">κἀκ’ τοῦδε παιδὸς παῖς γεγὼς ὁ Νήδυμος,</rdg></app></l>
+          <l><lb n="4"/><app type="alternative"><rdg><gap reason="lost" agent="damage"/></rdg><rdg resp="previous">τρίτος δὲ παιδὸς νῦν πατὴρ ὁ Ζώσιμος.</rdg></app></l>
+          <l><lb n="5"/><app type="alternative"><rdg><gap reason="lost" agent="damage"/></rdg><rdg resp="previous">μύσιν θεῶν τίς μοι δότω καὶ σύνφυσιν·</rdg></app></l>
+          <l><lb n="6"/><app type="alternative"><rdg><gap reason="lost" agent="damage"/></rdg><rdg resp="previous">ἤν γὰρ θίγῃ τις εἰς ἄνοιξιν τὴν ἐμήν,</rdg></app></l>
+          <l><lb n="7"/><app type="alternative"><rdg><gap reason="lost" agent="damage"/></rdg><rdg resp="previous">μήτ’ ἐλπίδων ὄναιτο, μὴ τέκνων σπορᾶς,</rdg></app></l>
+          <l><lb n="8"/><app type="alternative"><rdg><gap reason="lost" agent="damage"/></rdg><rdg resp="previous">ἀλλ’ ἐγ γένους ὄλοιτο πάνρειζον γένος.</rdg></app></l>
 </lg>
 </div>
       </body>
