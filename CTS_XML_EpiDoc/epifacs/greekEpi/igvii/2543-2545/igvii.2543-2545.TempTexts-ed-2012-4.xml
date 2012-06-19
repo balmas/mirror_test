@@ -26,6 +26,10 @@
          </langUsage>
         </profileDesc>
         <revisionDesc>
+          <change when="2012-06-19T11:26:10.443-04:00"
+                 who="http://data.perseus.org/sosol/users/Bridget%20Almas">Finalized - Finalizing, with additional change of textpart divs around each epigram</change>
+          <change when="2012-06-19T11:26:10.405-04:00"
+                 who="http://data.perseus.org/sosol/users/MarieClaire">Vote - APPROVE - Yes, this is great! We are on the right track here!</change>
           <change when="2012-06-19T08:11:05.574-04:00"
                  who="http://data.perseus.org/sosol/users/Bridget%20Almas">Added &lt;supplied&gt; tags around lost words.&#xD;
 Moved resp=Lolling etc out of text and into attribute of &lt;rdg&gt; tags&#xD;
