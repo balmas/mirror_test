@@ -70,6 +70,7 @@ removed extra edition divs and renumbered lines.XML Markup Change&#xD;
         <body>
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
+<div type="textpart" n="2543">
 <lg met="hexameters">
       <head>Part α. 2543.</head>
         <l><lb n="1"/>Σκῆνος μὲν γενετῆρες, ἐπ<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="18" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">εὶ γέρας ἐστὶ θανοῦσι,</supplied></rdg></app></l>
@@ -83,6 +84,8 @@ removed extra edition divs and renumbered lines.XML Markup Change&#xD;
         <l><lb n="9"/>ταῦτ’ ἐπέγραψε πα<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="21" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">τὴρ ὁ Ζώσιμος εἵνεκ’ ἐμεῖο,</supplied></rdg></app></l>
         <l><lb n="10"/>αἴμνηστον ἔχω<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="20" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">ν ψυχῆς πόθον ἀθανάτοιο.</supplied></rdg></app></l>
 </lg>
+</div>
+<div type="textpart" n="2544">
   <lg met="hexameters">
         <head>Part β. 2544.</head>
         <l><lb n="11"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="2" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">Μα</supplied></rdg></app>ρμαρέη λίθος ἰμὶ, φέρω δ’ἐν γαστέρι φῶτα</l>
@@ -96,6 +99,8 @@ removed extra edition divs and renumbered lines.XML Markup Change&#xD;
         <l><lb n="19"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="6" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">χωρὶς τ</supplied></rdg></app>ου παιδὸς πατέρος, οὗ ἔχω κατὰ γαστρός,</l>
         <l><lb n="20"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="6" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">δώσει τ</supplied></rdg></app>ῇ τε πόλει καὶ τῷ ταμείῳ αν·μυρία.<app type="alternative"><rdg resp="Lolling"><supplied reason="lost">ἀνα μύρια</supplied></rdg></app><app type="alternative"><rdg resp="Kaibel Leake"><supplied reason="lost">δηνάρια</supplied></rdg></app></l>
 </lg>
+</div>
+<div type="textpart" n="2545">
 <lg met="trimeters">
 <head>Part γ. 2545</head>
           <l><lb n="21"/><app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="7" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">Πλήρης ὁ </supplied></rdg></app>φόρτος ἐστί μοι· καλῶς ἔχει.</l>
@@ -107,6 +112,7 @@ removed extra edition divs and renumbered lines.XML Markup Change&#xD;
           <l><lb n="27"/><app type="alternative"><rdg><gap reason="lost" agent="damage"/></rdg><rdg resp="previous"><supplied reason="lost">μήτ’ ἐλπίδων ὄναιτο, μὴ τέκνων σπορᾶς,</supplied></rdg></app></l>
           <l><lb n="28"/><app type="alternative"><rdg><gap reason="lost" agent="damage"/></rdg><rdg resp="previous"><supplied reason="lost">ἀλλ’ ἐγ γένους ὄλοιτο πάνρειζον γένος.</supplied></rdg></app></l>
 </lg>
+</div>
 </div>
       </body>
     </text>
