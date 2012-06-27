@@ -26,6 +26,8 @@
          </langUsage>
         </profileDesc>
         <revisionDesc>
+          <change when="2012-06-27T14:42:23.698-04:00"
+                 who="http://data.perseus.org/sosol/users/MarieClaire">fixed a typo in the Greek</change>
           <change when="2012-06-19T11:26:10.443-04:00"
                  who="http://data.perseus.org/sosol/users/Bridget%20Almas">Finalized - Finalizing, with additional change of textpart divs around each epigram</change>
           <change when="2012-06-19T11:26:10.405-04:00"
@@ -82,7 +84,7 @@ removed extra edition divs and renumbered lines.XML Markup Change&#xD;
         <l><lb n="3"/>ψυχὴ δ’ἐς τὸ δίκαιον ἔϐη· ἦν δ’<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="12" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">οὔνομα τοὐμόν</supplied></rdg></app></l>
         <l><lb n="4"/>Νήδυμος, Ἰταλικῆς Ἀδάης <app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="15" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">παῖς ἥμερος ὄντως.</supplied></rdg></app></l>
         <l><lb n="5"/>οὐκ ἤμην ἔμπροσθε πολ<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="19" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">ὺν χρόνον, εἶτ’ ἐγενήθην</supplied></rdg></app></l>
-        <l><lb n="6"/>εἰς ὀλίγον ἐτέων ἐναρίθμ<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="14" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">ιος· ἄστατος αἰών,</supplied></rdg></app></l>
+        <l><lb n="6"/>εἰς ὀλίγων ἐτέων ἐναρίθμ<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="14" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">ιος· ἄστατος αἰών,</supplied></rdg></app></l>
         <l><lb n="7"/>οὐκ ἀνέδραστον ἔχω<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="24" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">ν ἴδιον δρόμον· ἧς δ’ ἔλαχέν τις</supplied></rdg></app></l>
         <l><lb n="8"/>μοίρης, ταύτην ἐκτε<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="19" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">λέσει· καὶ γὰρ βασιλῆες.</supplied></rdg></app></l>
         <l><lb n="9"/>ταῦτ’ ἐπέγραψε πα<app type="alternative"><rdg><gap reason="lost" agent="damage" quantity="21" unit="character"/></rdg><rdg resp="previous"><supplied reason="lost">τὴρ ὁ Ζώσιμος εἵνεκ’ ἐμεῖο,</supplied></rdg></app></l>
