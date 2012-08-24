@@ -26,6 +26,10 @@
          </langUsage>
         </profileDesc>
         <revisionDesc>
+          <change when="2012-08-24T11:50:38.279-04:00"
+                 who="http://http://data.perseus.org/sosol/users/Bridget%20Almas">Finalized - ok, finalizing this test change.</change>
+          <change when="2012-08-24T11:50:38.23-04:00"
+                 who="http://http://data.perseus.org/sosol/users/Bridget%20Almas">Vote - APPROVE - ok</change>
           <change when="2012-08-24T11:46:38.016-04:00"
                  who="http://http://data.perseus.org/sosol/users/Bridget%20Almas">Note added to source desc - I am testing something with SoSOL and will remove this in a subsequent submit</change>
           <change when="2012-06-28T15:54:47.662-04:00"
