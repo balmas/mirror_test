@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="3">
+                            <div type="chapter" n="5">
+                                <p>
+                                    <name type="person" key="0028623:*qeo/frastos:person:masc:nom">Θεόφραστος</name> δέ φησι σικυῶν τρία εἶναι γένη, <name type="ethnic"
+                        key="0057447:*lakwniko/s:ethnic:neut:nom/voc/acc 0057447:*lakwniko/s:ethnic:masc:acc">Λακωνικόν</name>, <name type="noclass" key="0000001:skutali/as:noclass:masc:acc">Σκυταλίαν</name>, <name type="person"
+                        key="0001000:*boiw/tios:person:neut:nom/voc/acc 0001000:*boiw/tios:person:masc:acc 0001000:*boiw/tios:ethnic:neut:nom/voc/acc 0001000:*boiw/tios:ethnic:masc:acc">Βοιώτιον</name>. καὶ τούτων τὸν μὲν <name type="ethnic"
+                        key="0057447:*lakwniko/s:ethnic:neut:nom/voc/acc 0057447:*lakwniko/s:ethnic:masc:acc">Λακωνικὸν</name> ὑδρευόμενον βελτίω γίνεσθαι, τοὺς δ᾽ ἄλλους ἀνύδρους. <quote>γίνονται δέ, φησί, καὶ εὐχυλότεροι οἱ σικυοί, ἐὰν τὸ σπέρμα ἐν γάλακτι βραχὲν σπαρῇ ἢ ἐν μελικράτῳ.</quote> ἱστορεῖ δὲ ταῦτα
+<milestone unit="casaubonpage" xml:id="casaubonpage-74b" n="74b"/>ἐν φυτικοῖς αἰτίοις: θᾶττον αὔξεσθαι, κἂν ἐν ὕδατι κἂν ἐν γάλακτι πρότερον ἢ εἰς τὴν γῆν κατατεθῆναι βραχῇ. <name type="person" key="0006193:*eu)qu/dhmos:person:masc:nom">Εὐθύδημος</name> δ᾽ ἐν τῷ περὶ λαχάνων εἶδος σικυῶν εἶναι τοὺς προσαγορευομένους δρακοντίας. ὠνομάσθαι δὲ σικυούς φησι <name type="person"
+                        key="0053847:*dhmh/trios:person:masc:nom 0053847:*dhmh/trios:person:masc/fem:nom 0001482:*dhm/htrios:person:masc:nom 0001000:*dhmh/trios:festival:masc:nom 0001000:*dhmh/trios:festival:masc/fem:nom">Δημήτριος</name> ὁ <name type="person"
+                        key="0003194:*)ici/wn:person:masc:nom/voc 0000486:*)/icios:group:masc:gen">Ἰξίων</name> ἐν πρώτῃ Ἐτυμολογουμένων ἀπὸ τοῦ σεύεσθαι καὶ κίειν ὁρμητικὸν γὰρ ὑπάρχειν. <name type="person"
+                        key="0006737:*(hraklei/dhs:person:masc:nom 0001000:*(hraklei/dhs:group:masc:nom 0001000:*(hraklei/dai:group:masc:nom 0001000:*(hraklei/dai:ethnic:masc:nom">Ἡρακλείδης</name> δ᾽ ὁ <name type="ethnic" key="0051181:*taranti=nos:ethnic:masc:nom">Ταραντῖνος</name> ἐν τῷ <name type="title" key="0001000:*sumpo/sion:title:neut:dat">Συμποσίῳ</name> ἡδύγαιον καλεῖ τὸν σικυόν. <name type="person" key="0006667:*dioklh=s:person:masc:nom">Διοκλῆς</name> δ᾽ ὁ <name type="ethnic"
+                        key="0003088:*karu/stios:ethnic:masc:nom 0001426:*karu/stios:person:masc:nom">Καρύστιος</name> τὸν σικυόν φησι μετὰ σίων ἐν πρώτοις λαμβανόμενον ἐνοχλεῖν φέρεσθαι γὰρ ἄνω καθάπερ τὴν ῥάφανον τελευταῖον δὲ λαμβανόμενον ἀλυπότερον εἶναι καὶ εὐπεπτότερον ἑφθὸν δὲ καὶ
+διουρητικὸν <milestone unit="casaubonpage" xml:id="casaubonpage-74c" n="74c"/>μετρίως ὑπάρχειν. <name type="person" key="0003295:*di/filos:person:masc:nom">Δίφιλος</name> δέ φησιν <quote>ὁ σικυὸς ψυκτικὸς ὑπάρχων δυσοικονόμητός ἐστι καὶ δυσυποβίβαστος, ἔτι δὲ φρικοποιὸς καὶ γεννητικὸς χολῆς ἀφροδισίων τε ἐφεκτικός.</quote> αὔξονται δ᾽ ἐν τοῖς κήποις οἱ σικυοὶ κατὰ τὰς πανσελήνους καὶ φανερὰν ἴσχουσι τὴν ἐπίδοσιν, καθάπερ καὶ οἱ θαλάττιοι ἐχῖνοι.
+</p>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>
