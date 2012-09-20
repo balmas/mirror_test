@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="1">
+                            <div type="chapter" n="1">
+                                <p>
+                                    <milestone unit="casaubonpage" xml:id="casaubonpage-1a" n="1a"/>
+                                    <name type="person" key="0017075:*)aqh/naios:person:masc:nom">Ἀθήναιος</name> μὲν ὁ τῆς βίβλου πατήρ: ποιεῖται δὲ τὸν λόγον πρὸς <name type="person" key="0001023:*timokra/ths:person:masc:acc">Τιμοκράτην</name>
+                                    <rs type="nomorph">Δειπνοσοφιστὴς</rs> δὲ ταύτῃ τὸ ὄνομα. ὑπόκειται δὲ τῷ λόγῳ <name type="person" key="0001000:*larh/nsios:person:masc:nom">Λαρήνσιος</name>
+                                    <name type="ethnic"
+                        key="0993138:*(rwmai=os:ethnic:masc:nom 0001000:*(rwmai=os:group:masc:nom">Ῥωμαῖος</name>, ἀνὴρ τῇ τύχῃ περιφανής, τοὺς κατὰ πᾶσαν παιδείαν ἐμπειροτάτους ἐν τοῖς αὑτοῦ δαιτυμόνας ποιούμενος: ἐν οἷς οὐκ ἔσθ᾽ οὗτινος τῶν καλλίστων οὐκ ἐμνημόνευσεν. ἰχθῦς τε γὰρ τῇ
+βίβλῳ ἐνέθετο καὶ τὰς τούτων χρείας καὶ τὰς τῶν ὀνομάτων ἀναπτύξεις, καὶ λαχάνων γένη παντοῖα.
+<milestone unit="casaubonpage" xml:id="casaubonpage-1b" n="1b"/>καὶ ζῴων παντοδαπῶν, καὶ ἄνδρας ἱστορίας συγγεγραφότας καὶ ποιητὰς καὶ φιλοσόφους, καὶ ὄργανα μουσικὰ καὶ σκωμμάτων εἴδη μυρία: καὶ ἐκπωμάτων διαφορὰς καὶ πλούτους βασιλέων διηγήσατο, καὶ νηῶν μεγέθη, καὶ ὅσα ἄλλα οὐδ᾽ ἂν εὐχερῶς ἀπομνημονεύσαιμι, ἢ ἐπιλίποι ἂν με ἡ ἡμέρα κατ᾽ εἶδος διεξερχόμενον. καί ἐστιν ἡ τοῦ λόγου οἰκονομία μίμημα τῆς τοῦ δείπνου πολυτελείας, καὶ ἡ τῆς βίβλου διασκευὴ τῆς ἐν τῷ δείπνῳ
+<pb xml:id="v.1.p.4"/>
+παρασκευῆς. τοιοῦτον ὁ θαυμαστὸς οὗτος τοῦ λόγου οἰκονόμος <name type="person" key="0017075:*)aqh/naios:person:masc:nom">Ἀθήναιος</name> ἥδιστον λογόδειπνον εἰσηγεῖται κρείττων τε αὐτὸς ἑαυτοῦ γινόμενος, ὥσπερ οἱ <name type="place"
+                        key="0361602:*)aqh=nai:place:nn:dat 0000001:*)aqh/neus:noclass:masc:dat">Ἀθήνησι</name> ῥήτορες, ὑπὸ τῆς ἐν τῷ λέγειν
+<milestone unit="casaubonpage" xml:id="casaubonpage-1c" n="1c"/>θερμότητος πρὸς τὰ ἑπόμενα τῆς βίβλου βαθμηδὸν ὑπεράλλεται.
+</p>
+                                <p/>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>
