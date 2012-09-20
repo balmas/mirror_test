@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:oac="http://www.openannotation.org/ns/" xmlns:cnt="http://www.w3.org/2008/content#">
-  <Annotation xmlns="http://www.openannotation.org/ns/" rdf:about="http://data.perseus.org/annotations/sosol1//128/222/269/1/2">
-    <hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLang:tlg0008.tlg001.perseus-grc1:1.2#Φιλάδελφός1-Πτολεμαεύς1"/>
-    <hasBody rdf:resource="http://data.perseus.org/citations/urn:cts:greekLang:tlg0012.tlg001.perseus-grc1:1.4"/>
-    <title xmlns="http://purl.org/dc/terms/">isCitationOf</title>
-    <creator xmlns="http://purl.org/dc/terms/">
-      <Agent xmlns="http://xmlns.com/foaf/0.1/" rdf:about="http://data.perseus.org/sosol/users/Bridget%20Almas"/>
-    </creator>
-    <created xmlns="http://purl.org/dc/terms/">Fri Sep 14 12:39:09 -0400 2012</created>
-  </Annotation>
   <Annotation xmlns="http://www.openannotation.org/ns/" rdf:about="http://data.perseus.org/annotations/sosol1/147/315/316/1/3">
     <hasTarget xmlns="http://www.openannotation.org/ns/" rdf:resource="http://data.perseus.org/citations/urn:cts:greekLang:tlg0008.tlg001.perseus-grc1:1.9"/>
     <hasBody xmlns="http://www.openannotation.org/ns/" rdf:resource="http://test2"/>
