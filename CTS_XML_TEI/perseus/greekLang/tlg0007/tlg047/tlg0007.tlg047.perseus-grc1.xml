@@ -60,7 +60,7 @@
          <change/>
       </revisionDesc>
    </teiHeader>
-   <text n="urn:cts:greekLang:tlg0007.tlg047.perseus-grc1">
+   <text n="urn:cts:greekLang:tlg0007.tlg047.perseus-grc1" xml:lang="greek">
       <body>
          <pb xml:id="p.224"/>
          <div type="chapter" n="1">
