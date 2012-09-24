@@ -39,6 +39,27 @@
                         <memberof collection="Perseus:collection:Greco-Roman"/>
                     </edition>
                 </work>
+                <work projid="greekLang:tlg047" xml:lang="grc">
+                    <title xml:lang="en">Alexander</title>
+                    <edition projid="greekLang:perseus-grc1">
+                        <label xml:lang="en">Alexander</label>
+                        <description xmlns="" xml:lang="en">Perseus:bib:oclc,40115288,
+                    Perseus:bib:isbn,0674991109, Plutarch. Plutarch&amp;apos;s Lives. with an
+                    English Translation by. Bernadotte Perrin. Cambridge, MA. Harvard University
+                    Press. London. William Heinemann Ltd. 1919. 7.</description>
+                        <online docname="/db/repository/greekLang/tlg0007/tlg047/tlg0007.tlg047.perseus-grc1.xml">
+                            <validate schema="tei-xl.xsd"/>
+                            <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                            <citationMapping>
+                                <citation label="Chapter" xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body">
+                                    <citation label="Section" xpath="/tei:div[@n='?']"
+                                     scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']"/>
+                                </citation>
+                            </citationMapping>
+                        </online>
+                        <memberof collection="Perseus:collection:Greco-Roman"/>
+                    </edition>
+                </work>
             </textgroup>
             <textgroup projid="greekLang:tlg0008">
                 <groupname xml:lang="eng">Athenaeus</groupname>
