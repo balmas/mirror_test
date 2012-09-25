@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="10">
+                            <div type="chapter" n="22">
+                                <sp n="sp2126" who="Οὐλπιανός">
+                                    <p>πρότερον δέ μοι λελέξεται περὶ τοῦ ζωρότερον. <name type="person"
+                           key="0007915:*)antifa/nhs:person:masc:nom 0007915:*)antifa/nhs:group:masc:nom/voc 0007915:*)antifa/nhs:group:masc:acc">Ἀντιφάνης</name>
+                                        <name type="person" key="0001000:*melani/wn:person:masc:dat">Μελανίωνι</name>:
+
+<quote rend="blockquote">
+                                            <lb/>τοῦτον ἐγὼ κρίνω μετανιπτρίδα τῆς <name type="person"
+                              key="0001851:*(ugi/eia:person:fem:gen 0001851:*(ugi/eia:group:fem:acc">Ὑγιείας</name>
+                                            <lb/>πίνειν ζωροτέρῳ χρώμενον οἰνοχόῳ,
+
+</quote>
+ἐν δὲ <name type="person" key="0000444:*la/mpwn:person:masc:dat">Λάμπωνι</name>:
+
+<quote rend="blockquote">
+                                            <lb/>ὁ δεῖν᾽ <name type="ethnic"
+                              key="0004343:*)ia=puc:ethnic:masc:nom/voc 0001000:*)ia=puc:person:masc:nom/voc">Ἰᾶπυξ</name>, κέρασον εὐζωρέστερον.
+
+</quote>
+                                        <name type="person" key="0006243:*)/efippos:person:masc:nom">Ἔφιππος</name>
+                                        <name type="noclass" key="0000001:e)/fhbos:noclass:masc:dat">Ἐφήβοις</name>:
+
+<quote rend="blockquote">
+                                            <pb xml:id="v.4.p.418"/>
+                                            <lb/>φιάλην ἑκατέρᾳ
+<milestone unit="casaubonpage" xml:id="casaubonpage-423e" n="423e"/>
+                                            <lb/>ἔδωκε κεράσας ζωρότερον <name type="person"
+                              key="0001000:*(omhriko/s:person:nn:gen 0001000:*(omhriko/s:group:nn:gen">Ὁμηρικῶς</name>.
+
+</quote>
+τινὲς δὲ καὶ τὸ παρ᾽ <name type="person" key="0095973:*(/omhros:person:masc:dat">Ὁμήρῳ</name> ᾽ζωρότερον δὲ κέραιρε οὐκ ἄκρατον σημαίνειν φασίν, ἀλλὰ θερμόν, ἀπὸ τοῦ ζωτικοῦ καὶ τῆς ζέσεως; ἑταίρων γὰρ παρόντων νέον ἐξ ὑπαρχῆς κεράννυσθαι κρατῆρα οὐκ ἄτοπον, ἄλλοι δὲ τὸ εὔκρατον, ὥσπερ τὸ δεξιτερὸν ἀντὶ τοῦ δεξιοῦ. τινὲς δέ, ἐπεὶ οἱ ἐνιαυτοὶ ὧροι λέγονται καὶ τὸ ζα ὅτι μέγεθος ἢ πλῆθος σημαίνει, ζωρὸν τὸν πολυέτη λέγεσθαι. <name type="person" key="0003295:*di/filos:person:masc:nom">Δίφιλος</name> δ᾽ ἐν <name type="noclass" key="0000001:paiderasth/s:noclass:masc:dat">Παιδερασταῖς</name> φησιν
+<milestone unit="casaubonpage" xml:id="casaubonpage-423f" n="423f"/>
+                                        <quote rend="blockquote">
+                                            <lb/>ἔγχεον σὺ δὴ πιεῖν.
+<lb/>β. εὐζωρότερόν γε νὴ <name type="person"
+                              key="0009978:*zeu/s:person:masc:dat 0009978:*zeu/s:person:masc:acc 0001000:*di/h:person:fem:dat 0000001:*di/on:noclass:neut:nom/voc/acc">Δί᾽</name>, ὦ παῖ, δὸς: τὸ γὰρ
+<lb/>ὑδαρὲς ἅπαν τοῦτ᾽ ἐστι τῇ ψυχῇ κακόν.
+
+</quote>
+                                        <name type="person" key="0028623:*qeo/frastos:person:masc:nom">Θεόφραστος</name> δ᾽ ἐν τῷ περὶ μέθης ζωρότερόν φησιν εἶναι τὸ κεκραμένον, παρατιθέμενος <name type="person" key="0021976:*)empedoklh=s:person:masc:gen">Ἐμπεδοκλέους</name> τάδε:
+<milestone unit="casaubonpage" xml:id="casaubonpage-424a" n="424a"/>
+                                        <quote rend="blockquote">
+                                            <lb/>αἶψα δὲ θνητὰ φύοντο, τὰ πρὶν μάθον ἀθάνατ᾽ εἶναι,
+<lb/>ζωρά τε τὰ πρὶν ἄκρητα, διαλλάσσοντα κελεύθους.
+
+</quote>
+                                    </p>
+                                </sp>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>

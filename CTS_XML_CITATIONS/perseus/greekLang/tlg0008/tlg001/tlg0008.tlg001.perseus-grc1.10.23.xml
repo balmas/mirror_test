@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="10">
+                            <div type="chapter" n="23">
+                                <sp n="sp2126" who="Οὐλπιανός">
+                                    <p>κύαθον δ᾽ ἐπὶ τοῦ ἀντλητῆρος <name type="person" key="0109806:*pla/twn:person:masc:nom/voc">Πλάτων</name> εἴρηκεν ἐν <rs type="nomorph">Φάωνι</rs> οὕτως:
+
+<quote rend="blockquote">
+                                            <lb/>τῷ στόματι τὸν κύαθονὧδ᾽ εἰληφότες.
+
+</quote>
+καὶ ἐν <name type="noclass"
+                           key="0000001:pre/sbus:noclass:masc:dat 0000001:pre/sbos:noclass:neut:dat 0000001:pre/sbis:noclass:fem:dat">Πρέσβεσι</name>;
+
+<quote rend="blockquote">
+                                            <lb/>κυάθους ὅσους ἐκλεπτέτην ἑκάστοτε.
+<pb xml:id="v.4.p.420"/>
+                                        </quote>
+                                        <milestone unit="casaubonpage" xml:id="casaubonpage-424b" n="424b"/>
+                                        <name type="person" key="0002155:*)/arxippos:person:masc:nom">Ἄρχιππος</name>
+                                        <name type="noclass" key="0000001:*)ixqu/s:noclass:masc:dat">Ἰχθύσι</name>:
+
+<quote rend="blockquote">
+                                            <lb/>κύαθον ἐπριάμην παρὰ <name type="person" key="0001000:*dai/sios:person:masc:gen">Δαισίου</name>.
+
+</quote>
+τοιοῦτόν ἐστιν καὶ τὸ ἐν <name type="person" key="0006209:*ei)rh/nh:person:fem:dat">Εἰρήνῃ</name>
+                                        <name type="person" key="0031930:*)aristofa/nhs:person:masc:gen">Ἀριστοφάνους</name>:
+
+<quote rend="blockquote">
+                                            <lb/>ὑπωπιασμέναι
+<lb/>ἁπαξάπασαι καὶ κυάθους προσκείμεναι::</quote>
+
+τὰ γὰρ ὑπώπια τοῖς κυάθοις περιθλώμενα ἀμαυροῦται. μνημονεύει τοῦ κυάθου καὶ <name type="person" key="0044891:*cenofw=n:person:masc:nom">Ξενοφῶν</name> ἐν πρώτῳ <name type="noclass"
+                           key="0000001:paidei/a:noclass:fem:gen 0000001:paidei/a:noclass:fem:acc">Παιδείας</name> καὶ <name type="person" key="0018287:*krati=nos:person:masc:nom">Κρατῖνος</name>, ἔτι δ᾽ <name type="person"
+                           key="0031930:*)aristofa/nhs:person:masc:nom 0031930:*)aristofa/nhs:group:masc:nom/voc 0031930:*)aristofa/nhs:group:masc:acc">Ἀριστοφάνης</name> πολλαχοῦ καὶ <name type="person" key="0006620:*eu)/boulos:person:masc:nom">Εὔβουλος</name> ἐν <name type="noclass" key="0000001:*)orqa/nnhs:noclass:masc:dat">Ὀρθάννῃ</name>. <name type="person"
+                           key="0007805:*ferekra/ths:person:masc:nom 0007805:*ferekra/ths:group:masc:nom/voc 0007805:*ferekra/ths:group:masc:acc">Φερεκράτης</name> δ᾽ ἐν <name type="noclass" key="0000001:lh=ros:noclass:masc:dat">Λήροις</name> ᾽ἀργυροῦν κύαθον ὠνόμασε. <name type="person" key="0010711:*ti/mwn:person:masc:nom/voc">Τίμων</name> δ᾽ ἐν δευτέρῳ <name type="group" key="0001000:*si/llos-pl:group:masc:gen">Σίλλων</name> ἀρυσαίνας κέκληκε τοὺς κυάθους φάσκων οὑτωσί: ᾽ἀπληστοίνους τ᾽
+<milestone unit="casaubonpage" xml:id="casaubonpage-424c" n="424c"/>ἀρυσαίνας ἀπὸ τοῦ ἀρύσασθαι ὀνομάσας. καλοῦνται δὲ καὶ ἀρυστῆρες καὶ ἀρύστιχοι. <name type="person" key="0001176:*simwni/dhs:person:masc:nom">Σιμωνίδης</name>:
+
+<quote rend="blockquote">
+                                            <lb/>ἔδωκεν οὐδεὶς οὐδ᾽ ἀρυστῆρα τρυγός.
+
+</quote>
+                                        <name type="person"
+                           key="0031930:*)aristofa/nhs:person:masc:nom 0031930:*)aristofa/nhs:group:masc:nom/voc 0031930:*)aristofa/nhs:group:masc:acc">Ἀριστοφάνης</name> δ᾽ ἐν <name type="title" key="0001000:*sfh=kes:title:masc:dat">Σφηξὶν</name>
+                                        <quote rend="blockquote">
+                                            <lb/>ἐγὼ γὰρ εἶχον τούσδε τοὺς ἀρυστίχους.
+
+</quote>
+                                        <name type="person" key="0011694:*fru/nixos:person:masc:nom">Φρύνιχος</name>
+                                        <name type="noclass" key="0000001:poa/stria:noclass:fem:dat">Ποαστρίαις</name>: ᾽κύλικ᾽ ἀρύστιχον.᾽ ἔνθεν καὶ ἡ ἀρύταινα. ἔλεγον δὲ καὶ ἔφηβον τὸ τοιοῦτον σκεῦος, ὡς <name type="person" key="0001557:*zhnofa/nhs:person:masc:nom">Ζηνοφάνης</name> ἐν τῷ <name type="noclass" key="0000001:suggeniko/s:noclass:masc/neut:dat">Συγγενικῷ</name>. <name type="person" key="0044949:*polu/bios:person:masc:nom">Πολύβιος</name>
+                                        <milestone unit="casaubonpage" xml:id="casaubonpage-424d" n="424d"/>δ᾽ ἐν τῇ ἐνάτῃ τῶν ἱστοριῶν καὶ ποταμόν τινα ἀναγράφει <name type="person" key="0000579:*ku/aqos:person:masc:acc">Κύαθον</name> καλούμενον περὶ <name type="person"
+                           key="0001135:*)arsino/h:person:fem:acc 0000837:*)arsino/h:place:fem:acc">Ἀρσινόην</name> πόλιν <name type="place"
+                           key="0033063:*ai)twli/a:place:fem:gen 0033063:*ai)twli/a:place:fem:acc 0001000:*ai)tw/lios:person:fem:gen 0001000:*ai)tw/lios:group:fem:acc 0000001:*ai)twli/h:noclass:fem:gen 0000001:*ai)twli/h:noclass:fem:acc">Αἰτωλίας</name>, </p>
+                                </sp>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>

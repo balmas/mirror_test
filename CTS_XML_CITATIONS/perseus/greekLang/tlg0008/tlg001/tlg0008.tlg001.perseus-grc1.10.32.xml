@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="10">
+                            <div type="chapter" n="32">
+                                <sp n="sp2834" who="Δημόκριτος">
+                                    <p>διὸ καὶ <name type="person" key="0031940:*(hsi/odos:person:masc:nom">Ἡσίοδος</name> ἐν ταῖς <name type="noclass" key="0000001:*)hoi=ai:noclass:fem:dat">Ἠοίαις</name> εἶπεν
+<milestone unit="casaubonpage" xml:id="casaubonpage-428c" n="428c"/>
+                                        <quote rend="blockquote">
+                                            <lb/>οἷα <name type="person"
+                              key="0001000:*dio/nusos-pl:person:masc:nom 0001000:*dio/nusos-pl:group:masc:nom">Διώνυσος</name> δῶκ᾽ ἀνδράσι χάρμα καὶ ἄχθος,
+<lb/>ὅστις ἄδην πίνῃ, οἶνος δέ οἱ ἔπλετο μάργος,
+<pb xml:id="v.4.p.440"/>
+                                            <lb/>σὺν δὲ πόδας χεῖράς τε δέει γλῶσσάν τε νόον τε
+<lb/>δεσμοῖς ἀφράστοισι: φιλεῖ δὲ ἑ μαλθακὸς ὕπνος.
+
+</quote>
+καὶ <name type="person" key="0026501:*qe/ognis:person:masc:nom">Θέογνις</name> δέ φησιν
+
+<quote rend="blockquote">
+                                            <lb/>ἥξω δ᾽ ὡς οἶνος χαριέστατος ἀνδρὶ πεπόσθαι,
+<lb/>οὔτε τι νήφων εἴμ᾽ οὔτε λίαν μεθύων.
+<lb/>ὃς δ᾽ ἂν ὑπερβάλλῃ πόσιος μέτρον, οὐκ ἔτ᾽ ἐκεῖνος
+<milestone unit="casaubonpage" xml:id="casaubonpage-428d" n="428d"/>
+                                            <lb/>τῆς αὑτοῦ γλώσσης καρτερὸς οὐδὲ νόου:
+<lb/>μυθεῖται δ᾽ ἀπάλαμνα τὰ νήφοσι γίγνεται αἰσχρά:
+<lb/>αἰδεῖται δ᾽ ἔρδων οὐδὲν ὅταν μεθύῃ,
+<lb/>τὸ πρὶν ἐὼν σώφρων τε καὶ ἤπιος, ἀλλὰ σὺ ταῦτα
+<lb/>γινώσκων μὴ πῖν᾽ οἶνον ὑπερβολάδην,
+<lb/>πρὶν μεθύειν ἄρξῃ δ᾽, ἀπανίστασο—μή σε βιάσθω
+<lb/>γαστήρ, ὥστε κακὸν λάτριν ἐφημέριον.
+
+</quote>
+                                        <name type="person" key="0002090:*)ana/xarsis:person:fem:nom">Ἀνάχαρσίς</name> τε ὁ σοφὸς ἐπιδεικνύμενος τὴν τῆς
+<milestone unit="casaubonpage" xml:id="casaubonpage-428e" n="428e"/>ἀμπέλου δύναμιν τῷ τῶν <name type="ethnic"
+                           key="0074294:*sku/qhs:ethnic:masc:gen 0001958:*sku/qhs:group:masc:gen">Σκυθῶν</name> βασιλεῖ καὶ τὰ κλήματα αὐτῆς
+δεικνὺς ἔλεγεν ὡς εἰ μὴ καθ᾽ ἕκαστον ἔτος ἔτεμνον οἱ <name type="ethnic"
+                           key="0002000:*(/ellhn:ethnic:masc/fem:nom/voc 0001276:*(/ellhn:group:masc/fem:nom/voc">Ἕλληνες</name> τὴν ἄμπελον, ἤδη κἂν ἐν <name type="ethnic"
+                           key="0074294:*sku/qhs:ethnic:masc:dat 0001958:*sku/qhs:group:masc:dat">Σκύθαις</name> ἦν.
+               <milestone unit="para"/>οὐ </p>
+                                </sp>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>

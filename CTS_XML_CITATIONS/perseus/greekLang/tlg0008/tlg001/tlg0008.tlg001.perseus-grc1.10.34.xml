@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="10">
+                            <div type="chapter" n="34">
+                                <sp n="sp2834" who="Δημόκριτος">
+                                    <p>δὲ ἀγνοοῦντες τὴν τοῦ οἴνου δύναμιν τὸν <name type="person" key="0025143:*dio/nusos:person:masc:acc">Διόνυσον</name> φάσκουσιν μανιῶν εἶναι αἴτιον τοῖς
+<milestone unit="casaubonpage" xml:id="casaubonpage-429c" n="429c"/>ἀνθρώποις, βλασφημοῦντες οὐ μετρίως. ὅθεν ὁ <name type="person" key="0005834:*melanippi/dhs:person:masc:nom">Μελανιππίδης</name> ἔφη:
+
+<quote rend="blockquote">
+                                            <lb/>πάντες δ᾽ ἀπεστύγεον ὕδωρ,
+<lb/>τὸ πρὶν ἐόντες ἀίδριες οἴνου.
+<lb/>τάχα δὴ τάχα τοὶ μὲν οὖν ἀπωλλύοντο,
+<lb/>τοὶ δὲ παράπληκτον χέον
+ὀμφάν.</quote>
+                                        <name type="person"
+                           key="0223520:*)aristote/lhs:person:masc:nom 0223520:*)aristote/lhs:group:masc:nom/voc 0223520:*)aristote/lhs:group:masc:acc">Ἀριστοτέλης</name> δ᾽ ἐν τῷ περὶ μέθης φησίν: ᾽ εἰ ὁ οἶνος μετρίως ἀφεψηθείη, πινόμενος ἧττον μεθύσκει τὴν γὰρ δύναμιν
+ἀφεψηθέντος αὐτοῦ ἀσθενεστέραν γίγνεσθαι: μεθύσκονταί τε, φησίν, οἱ γεραίτεροι τάχιστα δι᾽ ὀλιγότητα καὶ ἀσθένειαν τοῦ
+<milestone unit="casaubonpage" xml:id="casaubonpage-429d" n="429d"/>περὶ αὐτοὺς ἐνυπάρχοντος φύσει θερμοῦ, καὶ οἱ παντελῶς δὲ νέοι τάχιον μεθύσκονται διὰ τὸ πλῆθος τοῦ ἐνυπάρχοντος θερμοῦ τῷ γὰρ ἐκ τοῦ οἴνου προσγινομένῳ κρατοῦνται ῥᾳδίως. μεθύσκονται δὲ κἀν τοῖς ἀλόγοις ζῴοις ὕες μὲν σταφυλῆς στεμφύλων χορτασθέντες καὶ τὸ τῶν κοράκων καὶ τῶν κυνῶν γένος τὴν οἰνοῦτταν καλουμένην φαγόντα βοτάνην, πίθηκος δὲ καὶ ἐλέφας πιόντες οἶνον. διὸ καὶ τὰς θήρας ποιοῦνται τῶν πιθήκων καὶ τῶν κοράκων μεθυσθέντων, τῶν μὲν οἴνῳ, τῶν δὲ τῇ οἰνούττῃ.᾽
+<milestone unit="para"/>τὸ δ᾽ ἐνδελεχῶς μεθύειν,
+<milestone unit="casaubonpage" xml:id="casaubonpage-429e" n="429e"/>φησὶ <name type="person" key="0002045:*krw/bulos:person:masc:nom">Κρώβυλος</name> ἐν Ἀπολιπούσῃ,
+
+<quote rend="blockquote">
+                                            <lb/>τίν᾽ ἡδονὴν ἔχει,
+<pb xml:id="v.4.p.446"/>
+                                            <lb/>ἀποστεροῦντα ζῶνθ᾽ ἑαυτὸν τοῦ φρονεῖν,
+<lb/>ὃ μέγιστον ἡμῶν ἀγαθὸν ἔσχεν ἡ φύσις;
+
+</quote>
+καὶ <name type="person" key="0005951:*)/alecis:person:fem:nom">Ἄλεξις</name> δὲ ἐν τῇ τοῦ <name type="person"
+                           key="0001000:*fru/gios:person:masc/neut:gen 0001000:*fru/gios:person:masc/fem/neut:gen 0001000:*fru/gios:ethnic:masc/neut:gen 0001000:*fru/gios:ethnic:masc/fem/neut:gen">Φρυγίου</name> διασκευῇ φησιν
+
+<quote rend="blockquote">
+                                            <lb/>εἰ τοῦ μεθύσκεσθαι πρότερον τὸ κραιπαλᾶν
+<lb/>παρεγίνεθ᾽ ἡμῖν, οὐδ᾽ ἂν εἷς οἶνόν ποτε
+<lb/>προσίετο πλείω τοῦ μετρίου, νυνὶ δὲ τὴν
+<lb/>τιμωρίαν οὐ προσδοκῶντες τῆς μέθης
+<lb/>ἥξειν προχείρως τοὺς ἀκράτους πίνομεν.
+<milestone unit="casaubonpage" xml:id="casaubonpage-429f" n="429f"/>
+                                        </quote>
+τὸν δὲ <name type="noclass" key="0000001:samago/reios:noclass:masc:acc">Σαμαγόρειον</name> οἶνον καλούμενόν φησιν ὁ <name type="person"
+                           key="0223520:*)aristote/lhs:person:masc:nom 0223520:*)aristote/lhs:group:masc:nom/voc 0223520:*)aristote/lhs:group:masc:acc">Ἀριστοτέλης</name> ἀπὸ τριῶν κοτυλῶν κερασθεισῶν μεθύσκειν ὑπὲρ τεσσαράκοντα ἄνδρας.</p>
+                                </sp>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>

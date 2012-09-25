@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="10">
+                            <div type="chapter" n="24">
+                                <sp n="sp2126" who="Οὐλπιανός">
+                                    <p>τῷ δὲ ἀκρατέστερον <name type="person" key="0011281:*(uperei/dhs:person:masc:nom">Ὑπερείδης</name> κέχρηται ἐν τῷ κατὰ <name type="person" key="0095649:*dhmosqe/nhs:person:masc:gen">Δημοσθένους</name> γράφων οὕτως:
+<pb xml:id="v.4.p.422"/>
+᾽εἰ μέν τις ἀκρατέστερον ἔπιεν, ἐλύπει σέ τούτῳ ὅμοιόν ἐστι τὸ ᾽ ἀνιηρέστερον καὶ τὸ ἐν <name type="noclass" key="0000001:h(lia/s:noclass:fem:dat">Ἡλιάσιν</name>
+                                        <name type="person" key="0030663:*ai)sxu/los:person:masc:gen">Αἰσχύλου</name> ᾽ἀφθονέστερον λίβα καὶ <name type="person" key="0013005:*)epi/xarmos:person:masc:nom">Ἐπίχαρμος</name> δὲ ἐν <name type="place"
+                           key="0000659:*pu/rra:place:fem:nom/voc 0000659:*pu/rra:place:fem:dat">Πύρρᾳ</name> εὐωνέστερον ἔφη. καὶ ἐν τῷ κατὰ <name type="person" key="0009336:*dhma/dhs:person:masc:gen">Δημάδου</name> δὲ ὁ <name type="person" key="0011281:*(uperei/dhs:person:masc:nom">Ὑπερείδης</name> εἴρηκε ᾽ ῥᾳδιεστέραν τὴν πόλιν τῷ δὲ κεραννύειν κέχρηται <name type="person" key="0109806:*pla/twn:person:masc:nom/voc">Πλάτων</name> μὲν ἐν <name type="person" key="0001000:*fi/lhbos:person:masc:dat">Φιλήβῳ</name>: ᾽τοῖς δὴ θεοῖς, ὦ <name type="person" key="0000617:*prw/tarxos:person:masc:voc">Πρώταρχε</name>, εὐχόμενοι
+<milestone unit="casaubonpage" xml:id="casaubonpage-424e" n="424e"/>κεραννύωμεν καὶ <name type="person" key="0015630:*)alkai=os:person:masc:nom">Ἀλκαῖος</name> ἐν <name type="noclass" key="0000001:*(iero/n:noclass:neut:dat">Ἱερῷ</name> γάμῳ ᾽κεραννύουσιν ἀφανίζουσὶ τε <name type="person" key="0011281:*(uperei/dhs:person:masc:nom">Ὑπερείδης</name> ΔηλιακῷΣ32 ʽ καὶ τὸν κρατῆρα τὸν παιώνιον κοινῇ οἱ <name type="ethnic"
+                           key="0002000:*(/ellhn:ethnic:masc/fem:nom/voc 0001276:*(/ellhn:group:masc/fem:nom/voc">Ἕλληνες</name> κεραννύουσιν ` ᾠνοχόουν τε παρὰ τοῖς ἀρχαίοις οἱ εὐγενέστατοι παῖδες, ὡς ὁ τοῦ <name type="person"
+                           key="0004310:*mene/laos:person:masc:gen 0000736:*mene/laos:place:masc:gen">Μενελάου</name> υἱός:
+
+<quote rend="blockquote">
+                                            <lb/>ᾠνοχόει δ᾽ υἱὸς <name type="person"
+                              key="0004310:*mene/laos:person:masc:gen 0000736:*mene/laos:place:masc:gen">Μενελάου</name> κυδαλίμοιο.
+
+</quote>
+καὶ <name type="person" key="0002747:*eu)ripi/dhs:person:masc:nom">Εὐριπίδης</name> δ᾽ ὁ ποιητὴς ἐν παισὶν ᾠνοχόησε. <name type="person" key="0028623:*qeo/frastos:person:masc:nom">Θεόφραστος</name> γοῦν ἐν τῷ περὶ μέθης φησί: ᾽ πυνθάνομαι δ᾽ ἔγωγε καὶ <name type="person" key="0002747:*eu)ripi/dhs:person:masc:acc">Εὐριπίδην</name> τὸν ποιητὴν
+<milestone unit="casaubonpage" xml:id="casaubonpage-424f" n="424f"/>οἰνοχοεῖν <name type="place"
+                           key="0361602:*)aqh=nai:place:nn:dat 0000001:*)aqh/neus:noclass:masc:dat">Ἀθήνησι</name> τοῖς ὀρχησταῖς καλουμένοις. ὠρχοῦντο δὲ οὗτοι περὶ τὸν τοῦ <name type="person" key="0022077:*)apo/llwn:person:masc:gen">Ἀπόλλωνος</name> νεὼν τοῦ <name type="ethnic"
+                           key="0019587:*dh/lios:ethnic:masc:gen 0019587:*dh/lios:ethnic:masc/neut:gen 0019587:*dh/lios:ethnic:masc/fem/neut:gen">Δηλίου</name> τῶν πρώτων ὄντες <name type="ethnic"
+                           key="0360214:*)aqhnai=os:ethnic:masc/neut:gen 0360214:*)aqhnai=os:ethnic:fem:gen 0017075:*)aqh/naios:group:masc:gen 0000001:*)aqh/naion:noclass:neut:gen 0000001:*)aqh/naia:noclass:neut:gen">Ἀθηναίων</name> καὶ ἐνεδύοντο ἱμάτια τῶν <rs type="nomorph">Θηραικῶν</rs>. ὁ δὲ <name type="person" key="0022077:*)apo/llwn:person:masc:nom/voc">Ἀπόλλων</name> οὗτός ἐστιν ᾧ τὰ <name type="festival" key="0001000:*qargh/lia:festival:neut:nom/voc/acc">Θαργήλια</name> ἄγουσι, καὶ διασῴζεται <name type="place"
+                           key="0001000:*fluh=sin:place:nn:nom 0001000:*fluh=sin:place:nn:dat">Φλυῆσιν</name> ἐν τῷ δαφνηφορείῳ γραφὴ περὶ τούτων.
+<pb xml:id="v.4.p.424"/>
+τὰ αὐτὰ ἱστορεῖ καὶ <name type="person" key="0013765:*(ierw/numos:person:masc:nom">Ἱερώνυμος</name> ὁ <name type="ethnic"
+                           key="0017815:*(ro/dios:ethnic:masc:nom 0001420:*(ro/dios:place:masc:nom 0001000:*(rodiako/s:ethnic:masc:nom">Ῥόδιος</name>
+                                        <name type="person" key="0223520:*)aristote/lhs:person:masc:gen">Ἀριστοτέλους</name> ὢν μαθητής, καὶ οὗτος ἐν τῷ περὶ μέθης.
+<milestone unit="casaubonpage" xml:id="casaubonpage-425a" n="425a"/>
+                                        <name type="person" key="0034753:*sapfw/:person:fem:nom">Σαπφώ</name> τε ἡ καλὴ πολλαχοῦ <name type="person" key="0001519:*la/rixos:person:masc:acc">Λάριχον</name> τὸν ἀδελφὸν ἐπαινεῖ ὡς οἰνοχοοῦντα ἐν τῷ πρυτανείῳ τοῖς <name type="ethnic"
+                           key="0011726:*mutilhnai=os:ethnic:masc/neut:dat 0000001:*mutilhnai=oi:noclass:masc:dat">Μυτιληναίοις</name>. καὶ παρὰ <name type="ethnic"
+                           key="0993138:*(rwmai=os:ethnic:masc/neut:dat 0001000:*(rwmai=os:group:masc/neut:dat">Ῥωμαίοις</name> δὲ οἱ εὐγενέστατοι τῶν παίδων τὴν λειτουργίαν ταύτην ἐκτελοῦσιν ἐν ταῖς δημοτελέσι τῶν θυσιῶν, πάντα τοὺς <name type="ethnic"
+                           key="0003571:*ai)oleu/s:ethnic:masc:nom/voc 0003571:*ai)oleu/s:ethnic:masc:acc">Αἰολεῖς</name> μιμούμενοι, ὡς καὶ κατὰ τοὺς τόνους τῆς φωνῆς,
+</p>
+                                </sp>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>

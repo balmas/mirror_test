@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="10">
+                            <div type="chapter" n="26">
+                                <sp n="sp2126" who="Οὐλπιανός">
+                                    <p>οἱ δὲ παλαιοὶ τοὺς πρὸς ταῖς ὑπηρεσίαις ταύταις κήρυκας ἐκάλουν. <name type="person" key="0095973:*(/omhros:person:masc:nom">Ὅμηρος</name>:
+
+<quote rend="blockquote">
+                                            <lb/>κήρυκες δ᾽ ἀνὰ ἄστυ φέρον θεῶν ὅρκια πιστά,
+<lb/>ἄρνε δύω καὶ οἶνον ἐύφρονα, καρπὸν ἀρούρης,
+<lb/>ἀσκῷ ἐν αἰγείῳ: φέρε δὲ κρητῆρα φαεινὸν
+<lb/>κῆρυξ <name type="ethnic"
+                              key="0003123:*)idai=os:ethnic:masc:nom 0001052:*)idai=os:person:masc:nom">Ἰδαῖος</name> ἠδὲ χρύσεια κύπελλα.
+
+</quote>
+καὶ πάλιν:
+<milestone unit="casaubonpage" xml:id="casaubonpage-425e" n="425e"/>
+                                        <quote rend="blockquote">
+                                            <lb/>ἀτὰρ κήρυκες ἀγαυοὶ
+<lb/>ὅρκια πιστὰ θεῶν σύναγον, κρητῆρι δὲ οἶνον
+<lb/>μίσγον, ἀτὰρ βασιλεῦσιν ὕδωρ ἐπὶ χεῖρας ἔχευαν,
+
+</quote>
+                                        <name type="person" key="0003591:*klei/dhmos:person:masc:nom">Κλείδημος</name> δὲ τοὺς μαγείρους κήρυκάς φησι καλεῖσθαι. καὶ τὴν <name type="person" key="0003398:*(/hbh:person:fem:acc">Ἥβην</name> δέ τινες ἀνέπλασαν οἰνοχοοῦσαν αὐτοῖς, ἴσως διὰ τὸ ἡβητήρια καλεῖσθαι τὰ συμπόσια. <rs type="nomorph">Κλεινοῦς</rs> δὲ τῆς οἰνοχόου
+<milestone unit="casaubonpage" xml:id="casaubonpage-425f" n="425f"/>
+                                        <name type="person" key="0149813:*ptolemai=os:person:masc:gen">Πτολεμαίου</name> τοῦ βασιλέως, ἐπίκλην δὲ <name type="person" key="0000592:*fila/delfos:person:masc:gen">Φιλαδέλφου</name>, μνημονεύει <name type="person" key="0149813:*ptolemai=os:person:masc:nom">Πτολεμαῖος</name> ὁ τοῦ <name type="person" key="0001000:*)agh/sarxos:person:masc:gen">Ἀγησάρχου</name> ἐν τῇ τρίτῃ τῶν περὶ <name type="person" key="0001434:*filopa/twr:person:masc:acc">Φιλοπάτορα</name> ἱστοριῶν. <name type="person" key="0044949:*polu/bios:person:masc:nom">Πολύβιος</name> δὲ ἐν τῇ τεσσαρεσκαιδεκάτῃ τῶν ἱστοριῶν καὶ ἀνδριάντας αὐτῆς ἐν <name type="place" key="0050939:*)aleca/ndreia:place:fem:dat">Ἀλεξανδρείᾳ</name> ἑστάναι φησὶ κατὰ πολλὰ
+<pb xml:id="v.4.p.428"/>μέρη τῆς πόλεως μονοχίτωνας, ῥυτὸν κρατοῦντας ἐν ταῖς χερσίν.
+               </p>
+                                </sp>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>

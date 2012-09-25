@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="10">
+                            <div type="chapter" n="31">
+                                <sp n="sp2834" who="Δημόκριτος">
+                                    <p>
+                                        <milestone unit="para"/>οὐκ ἐμέθυον δ᾽ οἱ πάλαι, ἀλλὰ καὶ <name type="person" key="0007170:*pittako/s:person:masc:nom">Πιττακὸς</name>
+                                        <name type="person" key="0013064:*peri/andros:person:masc:dat">Περιάνδρῳ</name> τῷ <name type="ethnic"
+                           key="0091363:*kori/nqios:ethnic:masc/neut:dat 0004596:*kori/nqios:place:masc/neut:dat">Κορινθίῳ</name> παρῄνει μὴ μεθύσκεσθαι
+<milestone unit="casaubonpage" xml:id="casaubonpage-427f" n="427f"/>μηδὲ κωμάζειν, ἵν᾽, ἔφη, μὴ γνωσθῇς οἷος ὢν τυγχάνεις, ἀλλ᾽ οὐχ οἷος προσποιῇ.
+
+<quote rend="blockquote">
+                                            <lb/>κάτοπτρον γὰρ εἴδους χαλκός ἐστ᾽, οἶνος δὲ νοῦ.
+<lb/>
+                                        </quote>
+διὸ καὶ καλῶς οἱ παροιμιαζόμενοι λέγουσι τὸν οἶνον οὐκ ἔχειν πηδάλια. <name type="person" key="0044891:*cenofw=n:person:masc:nom">Ξενοφῶν</name> γοῦν ὁ <name type="person" key="0001000:*gru/llos:person:masc:gen">Γρύλλου</name>
+                                        <pb xml:id="v.4.p.438"/>παρὰ <name type="person"
+                           key="0042018:*dionu/sios:person:masc:dat 0042018:*dionu/sios:person:masc/neut:dat 0000001:*dionu/sion:noclass:neut:dat">Διονυσίῳ</name> ποτὲ τῷ <name type="ethnic" key="0103108:*sikeliw/ths:ethnic:masc:dat">Σικελιώτῃ</name> πίνειν ἀναγκάζοντος τοῦ οἰνοχόου προσαγορεύσας ὀνομαστὶ
+<milestone unit="casaubonpage" xml:id="casaubonpage-428a" n="428a"/>τὸν τύραννον ᾽ τί δή ἔφη, ᾽ὦ <name type="person" key="0042018:*dionu/sios:person:masc:voc">Διονύσιε</name>, οὐχὶ καὶ ὁ ὀψοποιὸς ἀγαθὸς ὢν καὶ ποικίλος ἀναγκάζει ἡμᾶς εὐωχουμένους ἐσθίειν καὶ μὴ βουλομένους, ἀλλὰ κοσμίως ἡμῖν παρατίθησι τὴν τράπεζαν σιγῶν;ι καὶ ὁ <name type="person" key="0065799:*sofoklh=s:person:masc:nom">Σοφοκλῆς</name> δὲ ἐν σατυρικῷ φησιν ὡς ἄρα
+
+<quote rend="blockquote">
+                                            <lb/>τὸ πρὸς βίαν
+<lb/>πίνειν ἴσον πέφυκε τῷ διψῆν κακόν.</quote>
+ὅθεν εἴρηται καὶ τὸ
+
+<quote rend="blockquote">
+                                            <lb/>οἶνος ἄνωγε γέροντα καὶ οὐκ ἐθέλοντα χορεύειν.</quote>
+                                        <name type="person" key="0003570:*sqe/nelos:person:masc:nom">Σθένελός</name> τε ὁ ποιητὴς οὐ κακῶς εἴρηκεν
+
+<quote rend="blockquote">
+                                            <lb/>οἶνος καὶ φρονέοντας ἐς ἀφροσύνας ἀναβάλλει.</quote>
+                                        <milestone unit="casaubonpage" xml:id="casaubonpage-428b" n="428b"/>ὁ δὲ <name type="person" key="0004593:*fwkuli/dhs:person:masc:nom">Φωκυλίδης</name> ἔφη:
+
+<quote rend="blockquote">
+                                            <lb/>χρὴ δ᾽ ἐν συμποσίῳ κυλίκων περινισομενάων
+<lb/>ἡδέα κωτίλλοντα καθήμενον οἰνοποτάζειν.
+
+</quote>
+ἔτι δὲ καὶ νῦν τοῦτο παραμένει: παρ᾽ ἐνίοις τῶν <name type="ethnic"
+                           key="0002000:*(/ellhn:ethnic:masc/fem:gen 0001276:*(/ellhn:group:masc/fem:gen">Ἑλλήνων</name>. ἐπεὶ δὲ τρυφᾶν ἤρξαντο καὶ χλιδῶσι, κατερρύησαν ἀπὸ τῶν δίφρων ἐπὶ τὰς κλίνας καὶ λαβόντες σύμμαχον τὴν ἀνάπαυσιν καὶ ῥᾳστώνην ἀνειμένως ἤδη καὶ ἀτάκτως ἐχρῶντο τῇ μέθῃ, ὁδηγούσης οἶμαι τῆς παρασκευῆς εἰς τὰς ἡδονάς.
+               </p>
+                                </sp>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>

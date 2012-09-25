@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="10">
+                            <div type="chapter" n="18">
+                                <sp n="sp1719" who="anonymous">
+                                    <p>καὶ <name type="person" key="0002636:*mnhsi/maxos:person:masc:nom">Μνησίμαχος</name> δὲ ἐν <name type="person" key="0098170:*fi/lippos:person:masc:dat">Φιλίππῳ</name> διὰ τὸν ὑπερβάλλοντα κόρον ἐν τοῖς δείπνοις παράγει τι συμπόσιον πολέμου παρασκευὴν ἐπαγγελλόμενον καὶ ἀληθῶς κατὰ τὸν χαριέστατον <name type="person" key="0044891:*cenofw=n:person:masc:acc">Ξενοφῶντα</name> πολέμου
+<milestone unit="casaubonpage" xml:id="casaubonpage-421c" n="421c"/>ἐργαστήριον. λέγει δ᾽ οὕτως:
+
+<quote rend="blockquote">
+                                            <lb/>ἆρ᾽ οἶσθα σὺ
+<lb/>ὁτιὴ πρὸς ἄνδρας ἐστί σοι μαχητέον
+<lb/>οἳ τὰ ξίφη δειπνοῦμεν ἠκονημένα,
+<lb/>ὁ ὄψον δὲ δᾷδας ἡμμένας καταπίνομεν;
+<lb/>ἐντεῦθεν εὐθὺς ἐπιφέρει τραγήματα
+<lb/>ἡμῖν ὁ παῖς μετὰ δεῖπνον ἀκίδας <name type="place" key="0001000:*krhtiko/s:place:fem:acc">Κρητικάς</name>,
+<lb/>ὥσπερ ἐρεβίνθους, δορατίων τε λείψανα
+<pb xml:id="v.4.p.408"/>
+                                            <lb/>κατεαγότ᾽, ἀσπίδας δὲ προσκεφάλαια καὶ καὶ
+<lb/>θώρακας ἔχομεν, πρὸς ποδῶν δὲ σφενδόνας
+<lb/>τόξα, καταπέλταισι δ᾽ ἐστεφανώμεθα.
+<milestone unit="casaubonpage" xml:id="casaubonpage-421d" n="421d"/>
+                                        </quote>
+καὶ ὁ <name type="ethnic" key="0007471:*kolofw/nios:ethnic:masc:nom">Κολοφώνιος</name> δὲ <name type="ethnic"
+                           key="0109356:*foi=nic:ethnic:masc:nom/voc 0002872:*foi=nic:person:masc:nom/voc">Φοῖνιξ</name> φησὶν
+
+<quote rend="blockquote">
+                                            <lb/>
+                                            <name type="place"
+                              key="0028892:*ni=nos:place:masc:gen 0022083:*ni/nos:place:masc:gen 0001754:*ni=nos:person:masc:gen">Νίνου</name> κάδοι μάχαιρα καὶ κύλιξ αἰχμή,
+<lb/>κόμη δὲ τόξα, δήιοι δὲ κρητῆρες,
+<lb/>ἵπποι δὲ
+ἄκρητος κἀλαλὴ ᾽ μύρον χεῖτε.</quote>
+᾽
+ἐν δὲ τῷ <name type="noclass" key="0000001:para/sitos:noclass:masc:dat">Παρασίτῳ</name>
+                                        <name type="person" key="0005951:*)/alecis:person:fem:nom">Ἄλεξις</name> περὶ πολυφάγου τινὸς διαλεγόμενός φησι:
+
+<quote rend="blockquote">
+                                            <lb/>καλοῦσι δ᾽ αὐτὸν πάντες οἱ νεώτεροι
+<lb/>παράσιτον ὑποκόρισμα: τῷ δ᾽ οὐδὲν μέλει.
+<lb/>δειπνεῖ δ᾽ ἄφωνος <name type="person" key="0006633:*th/lefos:person:masc:nom">Τήλεφος</name>, νεύων μόνον
+<lb/>πρὸς τοὺς ἐπερωτῶντάς τι, ὥστε πολλάκις
+<milestone unit="casaubonpage" xml:id="casaubonpage-421e" n="421e"/>
+                                            <lb/>αὐτὸν ὁ κεκληκὼς τὰ <name type="ethnic"
+                              key="0001000:*samoqra/|kion:ethnic:neut:nom/voc/acc 0000001:*samoqra/|kios:noclass:neut:nom/voc/acc 0000001:*samoqra/|kios:noclass:masc:voc 0000001:*samoqra/|kios:noclass:fem:nom/voc">Σαμοθρᾴκι᾽</name> εὔχεται
+<lb/>λῆξαι πνέοντα καὶ γαληνίσαι ποτέ.
+<lb/>χειμὼν ὁ μειρακίσκος ἐστὶ τοῖς φίλοις.
+
+</quote>
+                                        <name type="person" key="0003295:*di/filos:person:masc:nom">Δίφιλος</name> δ᾽ ἐν <name type="person" key="0067594:*(hraklh=s:person:masc:dat">Ἡρακλεῖ</name> περί τινος τῶν ὁμοίων διαλεγόμενος διέξεισιν
+
+<quote rend="blockquote">
+                                            <lb/>ἐμὲ μὲν οὐχ ὁρᾷς πεπωκότα
+<lb/>ἤδη τ᾽ ἀκροθώρακ᾽ ὄντα καὶ θυμούμενον,
+<lb/>τονδὶ δὲ ναστὸν <name type="person" key="0000405:*)asteri/wn:person:masc:gen">Ἀστερίωνος</name> μείζονα
+<lb/>ἤδη σχεδὸν δωδέκατον ἠριστηκότα;
+
+</quote>
+διὸ καλῶς ἔλεγεν ὁ <name type="person" key="0001000:*borusqeni/ths:person:masc:nom">Βορυσθενίτης</name>
+                                        <name type="person" key="0004480:*bi/wn:person:masc:nom/voc">Βίων</name> οὐ δεῖν ἀπὸ
+<milestone unit="casaubonpage" xml:id="casaubonpage-421f" n="421f"/>τῆς τραπέζης τὰς ἡδονὰς πορίζεσθαι, ἀλλ᾽ ἀπὸ τοῦ φρονεῖν. ὁ δ᾽ <name type="person" key="0002747:*eu)ripi/dhs:person:masc:nom">Εὐριπίδης</name> φησί
+
+<quote rend="blockquote">
+                                            <lb/>φαύλῃ διαίτῃ προσβαλὼν ἥσθη στόμα,
+<pb xml:id="v.4.p.410"/>
+                                        </quote>
+ὡς τῆς ἀπὸ τῶν προσφορῶν τέρψεως περὶ τὸ στόμα μᾶλλον γινομένης. <name type="person" key="0030663:*ai)sxu/los:person:masc:nom">Αἰσχύλος</name> τ᾽ ἐν <name type="person" key="0000345:*fineu/s:person:masc:dat">Φινεῖ</name>:
+
+<quote rend="blockquote">
+                                            <lb/>καὶ ψευδόδειπνα πολλὰ μαργώσης γνάθου
+<lb/>ἐρρυσίαζον στόματος ἐν πρώτῃ χαρᾷ.</quote>
+ἐν <name type="person" key="0000622:*sqene/boia:person:fem:dat">Σθενεβοίᾳ</name> δ᾽ ὁ <name type="person" key="0002747:*eu)ripi/dhs:person:masc:nom">Εὐριπίδης</name> περὶ εὐτελείας λέγων:
+
+<quote rend="blockquote">
+                                            <lb/>βίος δὲ πορφυρέως θαλάσσιος,
+<milestone unit="casaubonpage" xml:id="casaubonpage-422a" n="422a"/>
+                                            <lb/>οὐκ εὐτράπεζος, ἀλλ᾽ ἐπάκτιοι φάτναι.
+<lb/>ὑγρὰ δὲ μήτηρ, οὐ πεδοστιβὴς τροφὸς
+<lb/>θάλασσα: τήνδ᾽ ἀροῦμεν, ἐκ ταύτης βίος
+<lb/>βρόχοισι καὶ πέδαισιν οἴκαδ᾽ ἔρχεται.
+<milestone unit="para"/>
+                                        </quote>
+                                    </p>
+                                </sp>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>
