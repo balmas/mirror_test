@@ -49,6 +49,10 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2012-10-02T13:12:38.021-04:00"
+                 who="http://data.perseus.org/sosol/users/Bridget%20Almas">Finalized - moved to greekLit from greekLang</change>
+         <change when="2012-10-02T13:12:37.945-04:00"
+                 who="http://data.perseus.org/sosol/users/Bridget%20Almas">Vote - Approve - Ok - change is to the urn in the text element and some automatic reformatting of whitespace. will be renamed during finalization.</change>
          <change when="2012-10-02T13:06:24.522-04:00"
                  who="http://data.perseus.org/sosol/users/Bridget%20Almas">move to greekLit namespace</change>
          <change/>
