@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text xml:lang="greek">
+                    <body>
+                        <div type="book" n="1">
+                            <div type="chapter" n="4">
+                                <p>
+                                    <quote rend="blockquote">εἶτα εἰσβάλλει μετ᾽ ὀλίγον εἰς τὸν τοῦ <name type="person">Λαρηνσίου</name> ἔπαινον καὶ λέγει: ὃς ὑπὸ φιλοτιμίας πολλοὺς τῶν ἀπὸ παιδείας συναθροίζων οὐ μόνον τοῖς ἄλλοις ἀλλὰ καὶ λόγοις εἱστία, τὰ μὲν προβάλλων τῶν ἀξίων ζητήσεως, τὰ δὲ ἀνευρίσκων, οὐκ ἀβασανίστως οὐδ᾽ ἐκ τοῦ παρατυχόντος τὰς ζητήσεις ποιούμενος, ἀλλ᾽ ὡς ἔνι μάλιστα μετὰ κριτικῆς τινος καὶ <name type="person">Σωκρατικῆς</name> ἐπιστήμης, ὡς πάντας
+<milestone unit="casaubonpage" xml:id="casaubonpage-2c" n="2c"/>θαυμάζειν τῶν ζητήσεων τὴν τήρησιν. λέγει δὲ αὐτὸν καὶ καθεσταμένον ἐπὶ τῶν ἱερῶν εἶναι καὶ θυσιῶν ὑπὸ τοῦ πάντα ἀρίστου βασιλέως <name type="person">Μάρκου</name> καὶ μὴ ἔλαττον τῶν πατρίων τὰ τῶν <name type="ethnic">Ἑλλήνων</name> μεταχειρίζεσθαι. καλεῖ δὲ αὐτὸν καὶ
+<name type="person">Ἀστεροπαῖόν</name> τινα ἐπ᾽ ἴσης ἀμφοτέρων τῶν φωνῶν προιστάμενον. λέγει δὲ αὐτὸν καὶ ἔμπειρον εἶναι ἱερουργιῶν τῶν νομισθεισῶν ὑπό τε τοῦ τῆς πόλεως ἐπωνύμου <name type="person">Ῥωμύλου</name> καὶ <name type="person">Πομπιλίου</name>
+                                        <rs type="nomorph">Νουμᾶ</rs> καὶ ἐπιστήμονα νόμων πολιτικῶν. πάντα δὲ ταῦτα
+<milestone unit="casaubonpage" xml:id="casaubonpage-2d" n="2d"/>μόνον ἐξευρεῖν ἐκ παλαιῶν ψηφισμάτων καὶ δογμάτων
+<milestone unit="casaubonpage" xml:id="casaubonpage-3a" n="3a"/>τηρήσεως, ἔτι δὲ νόμων συναγωγῆς οὐκέτι διδάσκουσιν, ὡς τὰ <name type="person">Πινδάρου</name> ὁ κωμῳδιοποιὸς <name type="person">Εὔπολίς</name> φησιν, ἤδη κατασεσιγασμένων
+<pb xml:id="v.1.p.10"/>ὑπὸ τῆς τῶν πολλῶν ἀφιλοκαλίας. ἦν δέ, φησί, καὶ βιβλίων κτῆσις αὐτῷ ἀρχαίων <name type="ethnic">Ἑλληνικῶν</name> τοσαύτη ὡς ὑπερβάλλειν πάντας τοὺς ἐπὶ συναγωγῇ τεθαυμασμένους, <name type="person">Πολυκράτην</name> τε τὸν <name type="ethnic">Σάμιον</name> καὶ <name type="person">Πεισίστρατον</name> τὸν <name type="ethnic">Ἀθηναίων</name> τυραννήσαντα <name type="person">Εὐκλείδην</name> τε τὸν καὶ αὐτὸν <name type="ethnic">Ἀθηναῖον</name> καὶ <name type="person">Νικοκράτην</name> τὸν <name type="ethnic">Κύπριον</name> ἔτι τε τοὺς <name type="place">Περγάμου</name> βασιλέας <name type="person">Εὐριπίδην</name> τε τὸν ποιητὴν <name type="person">Ἀριστοτέλην</name> τε τὸν φιλόσοφον καὶ <name type="person">Θεόφραστον</name> καὶ τὸν τὰ τούτων
+<milestone unit="casaubonpage" xml:id="casaubonpage-3b" n="3b"/>διατηρήσαντα βιβλία <name type="person">Νηλέα</name>: παρ᾽ οὗ πάντα φησί,
+πριάμενος ὁ ἡμεδαπὸς βασιλεὺς <name type="person">Πτολεμαῖος</name>, <name type="person">Φιλάδελφος</name> δὲ ἐπίκλην, μετὰ τῶν <name type="place">Ἀθήνηθεν</name> καὶ τῶν ἀπὸ <name type="place">Ῥόδου</name> εἰς τὴν καλὴν <name type="place">Ἀλεξάνδρειαν</name> μετήγαγε.
+διόπερ ἐκεῖνα τῶν <name type="person">Ἀντιφάνους</name> ἐρεῖ τις εἰς αὐτόν:
+
+<quote rend="blockquote">
+                                            <lb/>ἀεὶ δὲ πρὸς <name type="group">Μούσαισι</name> καὶ λόγοις πάρει
+,
+<lb/>ὅπου τι σοφίας ἔργον ἐξετάζεται.
+<lb/>ἀγλαίζεται δὲ καὶ
+<lb/>μουσικᾶς ἐν ἀώτῳ
+<lb/>οἷα παίζομεν φίλαν
+<lb/>ἄνδρες ἀμφὶ θαμὰ τράπεζαν,
+<milestone unit="casaubonpage" xml:id="casaubonpage-3c" n="3c"/>
+                                        </quote>
+κατὰ τὸν <name type="ethnic">Θηβαῖον</name> μελοποιόν. καὶ ἐπὶ τὰς ἑστιάσεις δὲ παρακαλῶν πατρίδα, φησί, τὴν <name type="place">Ῥώμην</name> πᾶσιν ἀποφαίνει. <quote>τίς γὰρ τὰ οἴκοι ποθεῖ τούτῳ
+ξυνὼν ἀναπεπταμένην ἔχοντι τοῖς φίλοις τὴν οἰκίαν;</quote> κατὰ γὰρ τὸν κωμῳδιοποιὸν <name type="person">Ἀπολλόδωρον:</name>: εἰς οἰκίαν ὅταν τις εἰσίῃ φίλου
+<lb/>ἔστιν θεωρεῖν <rs type="nomorph">Νικοφῶν</rs>, τὴν τοῦ φίλου εὔνοιαν
+<lb/>εὐθὺς εἰσιόντα τὰς θύρας.
+<lb/>ὁ θυρωρὸς ἱλαρὸς πρῶτόν ἐστιν, ἡ κύων
+<pb xml:id="v.1.p.12"/>
+                                        <lb/>ἔσηνε καὶ προσῆλθ᾽
+, ὑπαντήσας δέ τις
+<milestone unit="casaubonpage" xml:id="casaubonpage-3d" n="3d"/>
+                                        <lb/>δίφρον εὐθέως ἔθηκε, κἂν μηδεὶς λέγῃ
+<lb/>μηδέν.
+
+</quote>
+                                </p>
+                            </div>
+                        </div>
+                    </body>
+                </text>
+</TEI>
