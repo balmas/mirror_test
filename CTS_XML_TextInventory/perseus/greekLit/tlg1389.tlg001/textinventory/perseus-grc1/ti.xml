@@ -121,7 +121,7 @@
                 <work projid="greekLit:tlg001">
                     <title xml:lang="eng">Lexicon in decem oratores Atticos</title>
                     <edition projid="greekLit:perseus-grc1">
-                        <label xml:lang="eng">Lexicon in decem oratores Attico (Dindor 1853)</label>
+                        <label xml:lang="eng">Lexicon in decem oratores Atticos (Dindor 1853)</label>
                         <online docname="tlg1389.tlg001.perseus-grc1.xml">
                             <validate schema="tei-xl.rng"/>
                             <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
