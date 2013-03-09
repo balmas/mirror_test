@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:oac="http://www.openannotation.org/ns/" xmlns:cnt="http://www.w3.org/2008/content#">
+  <Annotation xmlns="http://www.openannotation.org/ns/" rdf:about="http://data.perseus.org/annotations/sosol1/294/833/835/7/2">
+    <hasTarget xmlns="http://www.openannotation.org/ns/" rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc2:6.103#ὁ3-ἀντιγραφαῖσ̓1"/>
+    <hasBody xmlns="http://www.openannotation.org/ns/" rdf:resource="http://data.perseus.org/collections/urn:cite:perseus:lci.1"/>
+    <title xmlns="http://purl.org/dc/terms/">isQuotedBy</title>
+    <creator xmlns="http://purl.org/dc/terms/">
+      <Agent xmlns="http://xmlns.com/foaf/0.1/" rdf:about="http://data.perseus.org/sosol/users/7"/>
+    </creator>
+    <created xmlns="http://purl.org/dc/terms/">Sat Mar 09 16:46:48 -0500 2013</created>
+  </Annotation>
+  <Annotation xmlns="http://www.openannotation.org/ns/" rdf:about="http://data.perseus.org/annotations/sosol1/294/833/835/7/3">
+    <hasTarget xmlns="http://www.openannotation.org/ns/" rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0008.tlg001.perseus-grc2:3.6#Ἴστρος1-συκοφάνται1"/>
+    <hasBody xmlns="http://www.openannotation.org/ns/" rdf:resource="http://data.perseus.org/collections/urn:cite:perseus:lci.2"/>
+    <title xmlns="http://purl.org/dc/terms/">isQuotedBy</title>
+    <creator xmlns="http://purl.org/dc/terms/">
+      <Agent xmlns="http://xmlns.com/foaf/0.1/" rdf:about="http://data.perseus.org/sosol/users/7"/>
+    </creator>
+    <created xmlns="http://purl.org/dc/terms/">Sat Mar 09 16:53:32 -0500 2013</created>
+  </Annotation>
+</rdf:RDF>
