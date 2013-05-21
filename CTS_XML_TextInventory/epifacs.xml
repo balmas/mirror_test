@@ -32,9 +32,9 @@
         </work>
         <work projid="ig:2543-2545" xml:lang="grc" urn="urn:cts:ig:vii.2543-2545">
             <title xml:lang="eng">2543-2545: Epitaph of Nedymos (Thebes)</title>
-            <edition projid="greekEpi:TempTexts-ed-2012-4" urn="urn:cts:ig:vii.2543-2545.perseus-grc1">
+            <edition projid="ig:perseus-grc1" urn="urn:cts:ig:vii.2543-2545.perseus-grc1">
                 <label xml:lang="eng">Transcription by Marie-Claire Beaulieu</label>
-                <online docname="vii.2543-2545.perseus-grc1.xml">
+                <online docname="/db/repository/ig/vii/vii.2543-2545.perseus-grc1.xml">
                     <validate schema="tei"/>
                     <citationMapping>
                         <citation label="tei:l" xpath="/body//l[@n='?'" scope=""/>
@@ -42,9 +42,9 @@
                 </online>
                 <memberof collection="epifacs"/>
             </edition>
-            <translation projid="ig:perseus-grc1" xml:lang="eng" urn="urn:cts:ig:vii.2543-2545.perseus-grc1">
+            <translation projid="ig:perseus-eng1" xml:lang="eng" urn="urn:cts:ig:vii.2543-2545.perseus-eng1">
                 <label xml:lang="eng">English Translation by Marie-Claire Beaulieu</label>
-                <online docname="vii.2543-2545.perseus-grc1.xml">
+                <online docname="/db/repository/ig/vii/vii.2543-2545.perseus-eng1.xml">
                     <validate schema="tei"/>
                     <citationMapping>
                         <citation label="tei:div" xpath="/body//div[@n='?'" scope=""/>
