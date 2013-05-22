@@ -31,7 +31,7 @@
          <change>Converted from EEBO format to TEI-A</change>
       </revisionDesc>
    </teiHeader>
-   <text n="urn:cts:psciTemp:bodin.livrep.perseus-eng1">
+   <text n="urn:cts:psciTemp:bodin.livrep.perseus-eng1" xml:lang="eng">
       <front>
          <div type="titlepage">
             <pb facs="406" />
