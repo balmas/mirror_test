@@ -180,6 +180,18 @@
         <groupname>Bodin</groupname>
         <work projid="psciTemp:livrep" xml:lang="lat">
             <title xml:lang="eng">Les Six livres de la République</title>
+            <edition projid="psciTemp:perseus-lat1">
+                <label>1586 De Republica</label>
+                <online docname="/db/repository/psciTemp/bodin/livrep/bodin.livrep.perseus-lat1.xml">
+                    <validate schema="tei-xl.rng"/>
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="Book" xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div">
+                            <citation label="Chapter" xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
             <edition projid="psciTemp:perseus-eng1">
                 <label>The six bookes of a common-weale.</label>
                 <online docname="/db/repository/psciTemp/bodin/livrep/bodin.livrep.perseus-eng1.xml">
