@@ -22,6 +22,10 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
+         <change when="2013-08-23T08:50:00.753-04:00"
+                 who="http://data.perseus.org/sosol/users/Bridget%20Almas">Finalized - commit back to master</change>
+         <change when="2013-08-23T08:50:00.325-04:00"
+                 who="http://data.perseus.org/sosol/users/Bridget%20Almas">Vote - Approve - approving for now</change>
          <change when="2013-08-23T08:38:19.213-04:00"
                  who="http://data.perseus.org/sosol/users/Bridget%20Almas">flagged words which didn't parse in morpheus in choice/sic/corr tagsXML Markup Change&#xD;
 </change>
